@@ -1,0 +1,53 @@
+{
+  "$type": "TriadBuddyPlugin.Configuration, TriadBuddy",
+  "Version": 0,
+  "ShowSolverHintsInGame": true,
+  "ShowDeckEditHighlights": true,
+  "CanUseProfileReader": true,
+  "DeckOptimizerCPU": 1.0,
+  "CheckCardNpcMatchOnly": false,
+  "CheckCardNotOwnedOnly": false,
+  "CheckNpcHideBeaten": false,
+  "CheckNpcHideCompleted": false,
+  "NpcStats": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy]], System.Private.CoreLib",
+    "2293789": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "46": 4,
+        "45": 1,
+        "62": 1
+      },
+      "NumCoins": 1538,
+      "NumWins": 14,
+      "NumDraws": 2,
+      "NumLosses": 0
+    },
+    "2293818": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "65": 1,
+        "149": 1,
+        "144": 1
+      },
+      "NumCoins": 302,
+      "NumWins": 4,
+      "NumDraws": 0,
+      "NumLosses": 3
+    },
+    "2293825": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "86": 1,
+        "186": 1
+      },
+      "NumCoins": 50,
+      "NumWins": 2,
+      "NumDraws": 0,
+      "NumLosses": 0
+    }
+  }
+}

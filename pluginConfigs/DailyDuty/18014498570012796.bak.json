@@ -1,0 +1,2648 @@
+{
+  "CharacterData": {
+    "Name": "Hanzo Katarine",
+    "LocalContentID": 18014498570012796,
+    "World": "Sargatanas"
+  },
+  "HideDisabledModulesInSelectWindow": false,
+  "HideDisabledTimersInConfigWindow": false,
+  "TodoOverlay": {
+    "ShowDailyTasks": {
+      "Value": true
+    },
+    "ShowWeeklyTasks": {
+      "Value": true
+    },
+    "HideWhenAllTasksComplete": {
+      "Value": false
+    },
+    "HideCompletedTasks": {
+      "Value": true
+    },
+    "HideUnavailableTasks": {
+      "Value": true
+    },
+    "ShowCategoryAsComplete": {
+      "Value": false
+    },
+    "HideWhileInDuty": {
+      "Value": true
+    },
+    "LockWindowPosition": {
+      "Value": false
+    },
+    "Opacity": {
+      "Value": 0.0
+    },
+    "AnchorCorner": {
+      "Value": 0
+    },
+    "AutoResize": {
+      "Value": true
+    },
+    "Enabled": {
+      "Value": true
+    },
+    "TaskColors": {
+      "HeaderColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "IncompleteColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "CompleteColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 1.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "UnavailableColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 0.64705884,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      }
+    }
+  },
+  "TimersOverlay": {
+    "Enabled": {
+      "Value": false
+    },
+    "HideWhileInDuty": {
+      "Value": true
+    },
+    "LockWindowPosition": {
+      "Value": false
+    },
+    "AutoResize": {
+      "Value": true
+    },
+    "HideCompleted": {
+      "Value": false
+    },
+    "Opacity": {
+      "Value": 1.0
+    },
+    "Ordering": {
+      "Value": 0
+    }
+  },
+  "BeastTribe": {
+    "NotificationThreshold": {
+      "Value": 12
+    },
+    "ComparisonMode": {
+      "Value": 1
+    },
+    "NextReset": "2023-03-30T15:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "CustomDelivery": {
+    "NotificationThreshold": {
+      "Value": 6
+    },
+    "ComparisonMode": {
+      "Value": 2
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "DomanEnclave": {
+    "DonatedThisWeek": 0,
+    "WeeklyAllowance": 0,
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "DutyRoulette": {
+    "EnableClickableLink": {
+      "Value": false
+    },
+    "HideExpertWhenCapped": {
+      "Value": false
+    },
+    "CompleteWhenCapped": {
+      "Value": false
+    },
+    "OverlayEnabled": {
+      "Value": true
+    },
+    "CompleteColor": {
+      "Value": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "IncompleteColor": {
+      "Value": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "OverrideColor": {
+      "Value": {
+        "X": 1.0,
+        "Y": 0.64705884,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "TrackedRoulettes": [
+      {
+        "Roulette": 5,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 1
+      },
+      {
+        "Roulette": 8,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 1
+      },
+      {
+        "Roulette": 2,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 1,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 6,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 3,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 4,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 1
+      },
+      {
+        "Roulette": 15,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 17,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "Roulette": 7,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 1
+      },
+      {
+        "Roulette": 9,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 1
+      }
+    ],
+    "NextReset": "2023-03-30T15:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "FashionReport": {
+    "AllowancesRemaining": 4,
+    "HighestWeeklyScore": 0,
+    "Mode": {
+      "Value": 0
+    },
+    "EnableClickableLink": {
+      "Value": false
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "HuntMarksDaily": {
+    "TrackedHunts": [
+      {
+        "HuntType": 0,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 1,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 1
+      },
+      {
+        "HuntType": 2,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 1
+      },
+      {
+        "HuntType": 3,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 1
+      },
+      {
+        "HuntType": 6,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 7,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 8,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 10,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 11,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 12,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 14,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 15,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 16,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      }
+    ],
+    "NextReset": "2023-03-30T15:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "HuntMarksWeekly": {
+    "TrackedHunts": [
+      {
+        "HuntType": 4,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 5,
+        "Tracked": {
+          "Value": true
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 9,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 13,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      },
+      {
+        "HuntType": 17,
+        "Tracked": {
+          "Value": false
+        },
+        "State": 0
+      }
+    ],
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "JumboCactpot": {
+    "Tickets": [
+      124,
+      215,
+      1205
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-04-02T02:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "Levequest": {
+    "NotificationThreshold": {
+      "Value": 95
+    },
+    "ComparisonMode": {
+      "Value": 1
+    },
+    "NextReset": "2023-03-30T12:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "MiniCactpot": {
+    "TicketsRemaining": 0,
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-03-30T15:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "TreasureMap": {
+    "LastMapGathered": "2023-03-28T11:05:00Z",
+    "NextReset": "2023-03-30T15:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "WondrousTails": {
+    "InstanceNotifications": {
+      "Value": false
+    },
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "UnclaimedBookWarning": {
+      "Value": true
+    },
+    "OverlayEnabled": {
+      "Value": true
+    },
+    "ResendOnCompletion": {
+      "Value": false
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "ChallengeLog": {
+    "TrackedTasks": [
+      {
+        "RowID": 1,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 2,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 3,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 4,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 5,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 6,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 7,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 8,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 11,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 12,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 13,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 14,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 15,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 16,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 17,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 18,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 19,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 20,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 21,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 22,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 23,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 24,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 25,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 26,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 27,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 28,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 29,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 30,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 31,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 33,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 34,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 35,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 36,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 37,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 38,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 39,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 40,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 41,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 42,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 43,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 44,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 45,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 46,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 47,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 48,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 49,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 50,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 51,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 52,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 53,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 54,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 55,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 56,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 57,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 58,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 59,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 60,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 61,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 62,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 63,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 64,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 65,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 66,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 67,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 68,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 69,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 70,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 71,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 72,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 73,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 74,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      },
+      {
+        "RowID": 75,
+        "Enabled": {
+          "Value": false
+        },
+        "Completed": false
+      }
+    ],
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "RaidsNormal": {
+    "TrackedRaids": [
+      {
+        "Duty": {
+          "TerritoryType": 1087,
+          "ContentFinderCondition": 883,
+          "Name": "Abyssos: The Eighth Circle"
+        },
+        "CurrentDropCount": 0,
+        "Tracked": {
+          "Value": true
+        },
+        "NumItems": {
+          "Value": 1
+        }
+      }
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "RaidsAlliance": {
+    "TrackedRaids": [
+      {
+        "Duty": {
+          "TerritoryType": 1118,
+          "ContentFinderCondition": 911,
+          "Name": "Euphrosyne"
+        },
+        "CurrentDropCount": 0,
+        "Tracked": {
+          "Value": true
+        },
+        "NumItems": {
+          "Value": 1
+        }
+      }
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "FauxHollows": {
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "IncludeRetelling": {
+      "Value": true
+    },
+    "FauxHollowsCompleted": 0,
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "GrandCompanySupply": {
+    "TrackedSupply": [
+      {
+        "ClassJobID": 8,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 9,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 10,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 11,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 12,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 13,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 14,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 15,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      }
+    ],
+    "NextReset": "2023-03-30T20:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "GrandCompanyProvision": {
+    "TrackedProvision": [
+      {
+        "ClassJobID": 16,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 17,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "ClassJobID": 18,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      }
+    ],
+    "NextReset": "2023-03-30T20:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "MaskedCarnivale": {
+    "TrackedTasks": [
+      {
+        "Task": 0,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "Task": 1,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      },
+      {
+        "Task": 2,
+        "Tracked": {
+          "Value": true
+        },
+        "State": false
+      }
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "GrandCompanySquadron": {
+    "MissionCompleted": true,
+    "NextReset": "2023-04-04T08:00:00Z",
+    "Enabled": {
+      "Value": true
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": false
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": true
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    },
+    "Suppressed": {
+      "Value": false
+    }
+  },
+  "Version": 2
+}

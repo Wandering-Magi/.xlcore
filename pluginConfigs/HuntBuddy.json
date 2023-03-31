@@ -1,0 +1,17 @@
+{
+  "$type": "HuntBuddy.Configuration, HuntBuddy",
+  "ShowLocalHunts": true,
+  "ShowLocalHuntIcons": false,
+  "HideLocalHuntBackground": true,
+  "HideCompletedHunts": true,
+  "IconScale": 1.0,
+  "IconBackgroundColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.76,
+    "Y": 0.75,
+    "Z": 0.76,
+    "W": 0.8
+  },
+  "IconBackgroundColourU32": 3435315138,
+  "Version": 0
+}

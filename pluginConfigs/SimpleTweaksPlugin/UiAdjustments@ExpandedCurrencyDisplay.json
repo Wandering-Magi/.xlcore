@@ -1,0 +1,20 @@
+{
+  "DisplayDirection": 2,
+  "Currencies": [
+    {
+      "ItemId": 27,
+      "IconId": 65024,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Allied Seal"
+    },
+    {
+      "ItemId": 10307,
+      "IconId": 65034,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Centurio Seal"
+    }
+  ],
+  "Version": 1
+}
