@@ -15,20 +15,12 @@
     "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
-  "HoH/51-100.yml": {
-    "Item1": "DeepDungeonDex.Storage.MobData",
-    "Item2": null
-  },
   "en/HoH/1-50.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
   "en/HoH/51-100.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
-    "Item2": null
-  },
-  "PotD/1-50.yml": {
-    "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
   "en/PotD/1-50.yml": {
@@ -39,19 +31,23 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
-  "PotD/51-100.yml": {
-    "Item1": "DeepDungeonDex.Storage.MobData",
-    "Item2": null
-  },
   "en/PotD/101-150.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
+  "HoH/51-100.yml": {
+    "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
   "en/PotD/151-200.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
-  "PotD/101-150.yml": {
+  "PotD/1-50.yml": {
+    "Item1": "DeepDungeonDex.Storage.MobData",
+    "Item2": null
+  },
+  "PotD/51-100.yml": {
     "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
@@ -59,7 +55,7 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
-  "PotD/151-200.yml": {
+  "PotD/101-150.yml": {
     "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
@@ -67,7 +63,7 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
-  "EO/1-50.yml": {
+  "PotD/151-200.yml": {
     "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
@@ -75,8 +71,16 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
+  "EO/1-50.yml": {
+    "Item1": "DeepDungeonDex.Storage.MobData",
+    "Item2": null
+  },
   "en/PotD/Floors.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
+  "EO/51-100.yml": {
+    "Item1": "DeepDungeonDex.Storage.MobData",
     "Item2": null
   },
   "Special.yml": {
@@ -99,12 +103,12 @@
     "Item1": "DeepDungeonDex.Storage.FloorData",
     "Item2": null
   },
-  "ja-JP/main.yml": {
-    "Item1": "DeepDungeonDex.Storage.Locale",
-    "Item2": null
-  },
   "HoH/Floors.yml": {
     "Item1": "DeepDungeonDex.Storage.FloorData",
+    "Item2": null
+  },
+  "ja-JP/main.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
   "ja-JP/HoH/1-50.yml": {
@@ -136,6 +140,10 @@
     "Item2": null
   },
   "ja-JP/EO/1-50.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
+  "ja-JP/EO/51-100.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
@@ -187,6 +195,10 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
+  "fr-FR/EO/51-100.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
   "fr-FR/Special.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
@@ -232,6 +244,10 @@
     "Item2": null
   },
   "de-DE/EO/1-50.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
+  "de-DE/EO/51-100.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
@@ -283,6 +299,10 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
+  "zh-CN/EO/51-100.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
   "zh-CN/Special.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
@@ -331,6 +351,10 @@
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },
+  "zh-TW/EO/51-100.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
   "zh-TW/Special.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
@@ -376,6 +400,10 @@
     "Item2": null
   },
   "ko-KR/EO/1-50.yml": {
+    "Item1": "DeepDungeonDex.Storage.Locale",
+    "Item2": null
+  },
+  "ko-KR/EO/51-100.yml": {
     "Item1": "DeepDungeonDex.Storage.Locale",
     "Item2": null
   },

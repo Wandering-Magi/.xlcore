@@ -3362,7 +3362,7 @@
               "kP": false,
               "sL": null,
               "m": 0,
-              "cl": 4294967295,
+              "cl": 4292040078,
               "clA": 0,
               "iZ": 1.0,
               "iO": [
@@ -3428,7 +3428,7 @@
               "kP": false,
               "sL": null,
               "m": 0,
-              "cl": 4294967295,
+              "cl": 4292040078,
               "clA": 0,
               "iZ": 1.0,
               "iO": [
@@ -3494,7 +3494,7 @@
               "kP": false,
               "sL": null,
               "m": 0,
-              "cl": 4294967295,
+              "cl": 4292040078,
               "clA": 0,
               "iZ": 1.0,
               "iO": [
@@ -3953,13 +3953,47 @@
             {
               "$type": "QoLBar.ShCfg, QoLBar",
               "n": "::n76306",
-              "t": 2,
-              "c": "",
+              "t": 1,
+              "c": "/tp Kugane",
               "k": 0,
               "kP": false,
-              "sL": null,
+              "sL": [
+                {
+                  "$type": "QoLBar.ShCfg, QoLBar",
+                  "n": "Onokoro::61824",
+                  "t": 0,
+                  "c": "/tp Onokoro",
+                  "k": 0,
+                  "kP": false,
+                  "sL": null,
+                  "m": 0,
+                  "cl": 4294967295,
+                  "clA": 0,
+                  "iZ": 1.0,
+                  "iO": [
+                    0.0,
+                    0.0
+                  ],
+                  "iR": 0.0,
+                  "cdA": 0,
+                  "cdS": 0,
+                  "cW": 140,
+                  "cSO": false,
+                  "cC": 1,
+                  "cSp": [
+                    8,
+                    4
+                  ],
+                  "cS": 1.0,
+                  "cF": 1.0,
+                  "cNB": false,
+                  "cH": false,
+                  "cHC": false,
+                  "_i": 0
+                }
+              ],
               "m": 0,
-              "cl": 1694498815,
+              "cl": 4294967295,
               "clA": 0,
               "iZ": 1.0,
               "iO": [
@@ -3979,8 +4013,8 @@
               "cS": 1.0,
               "cF": 1.0,
               "cNB": false,
-              "cH": false,
-              "cHC": false,
+              "cH": true,
+              "cHC": true,
               "_i": 0
             },
             {
@@ -5345,8 +5379,8 @@
       "e": false,
       "cT": false,
       "p": [
-        0.8847656,
-        0.899375
+        0.88958335,
+        0.8666667
       ],
       "l": false,
       "co": 0,
@@ -5396,7 +5430,7 @@
           "cNB": false,
           "cH": false,
           "cHC": false,
-          "_i": 11
+          "_i": 6
         },
         {
           "$type": "QoLBar.ShCfg, QoLBar",
@@ -6035,8 +6069,8 @@
       "e": false,
       "cT": false,
       "p": [
-        0.20403613,
-        -0.054976672
+        0.2238278,
+        -0.07627298
       ],
       "l": false,
       "co": 5,
@@ -6081,6 +6115,13 @@
           "$type": "QoLBar.CndCfg, QoLBar",
           "i": "cf",
           "a": 32,
+          "n": true,
+          "o": 0
+        },
+        {
+          "$type": "QoLBar.CndCfg, QoLBar",
+          "i": "cf",
+          "a": 14,
           "n": true,
           "o": 0
         }

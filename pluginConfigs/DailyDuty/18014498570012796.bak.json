@@ -108,7 +108,7 @@
     "ComparisonMode": {
       "Value": 1
     },
-    "NextReset": "2023-03-30T15:00:00Z",
+    "NextReset": "2023-04-17T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -193,7 +193,7 @@
     "ComparisonMode": {
       "Value": 2
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -277,7 +277,7 @@
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -412,28 +412,28 @@
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 1,
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 6,
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 3,
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 4,
@@ -447,14 +447,14 @@
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 17,
         "Tracked": {
           "Value": true
         },
-        "State": 0
+        "State": 1
       },
       {
         "Roulette": 7,
@@ -471,7 +471,7 @@
         "State": 1
       }
     ],
-    "NextReset": "2023-03-30T15:00:00Z",
+    "NextReset": "2023-04-17T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -558,7 +558,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -730,7 +730,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2023-03-30T15:00:00Z",
+    "NextReset": "2023-04-17T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -846,7 +846,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -925,15 +925,11 @@
     }
   },
   "JumboCactpot": {
-    "Tickets": [
-      124,
-      215,
-      1205
-    ],
+    "Tickets": [],
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-04-02T02:00:00Z",
+    "NextReset": "2023-04-23T02:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1018,7 +1014,7 @@
     "ComparisonMode": {
       "Value": 1
     },
-    "NextReset": "2023-03-30T12:00:00Z",
+    "NextReset": "2023-04-17T12:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1097,11 +1093,11 @@
     }
   },
   "MiniCactpot": {
-    "TicketsRemaining": 0,
+    "TicketsRemaining": 3,
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-03-30T15:00:00Z",
+    "NextReset": "2023-04-17T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1181,7 +1177,7 @@
   },
   "TreasureMap": {
     "LastMapGathered": "2023-03-28T11:05:00Z",
-    "NextReset": "2023-03-30T15:00:00Z",
+    "NextReset": "2023-04-17T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1275,7 +1271,7 @@
     "ResendOnCompletion": {
       "Value": false
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1860,7 +1856,7 @@
         "Completed": false
       }
     ],
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1939,26 +1935,11 @@
     }
   },
   "RaidsNormal": {
-    "TrackedRaids": [
-      {
-        "Duty": {
-          "TerritoryType": 1087,
-          "ContentFinderCondition": 883,
-          "Name": "Abyssos: The Eighth Circle"
-        },
-        "CurrentDropCount": 0,
-        "Tracked": {
-          "Value": true
-        },
-        "NumItems": {
-          "Value": 1
-        }
-      }
-    ],
+    "TrackedRaids": [],
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2056,7 +2037,7 @@
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2142,7 +2123,7 @@
       "Value": true
     },
     "FauxHollowsCompleted": 0,
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2279,7 +2260,7 @@
         "State": false
       }
     ],
-    "NextReset": "2023-03-30T20:00:00Z",
+    "NextReset": "2023-04-17T20:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2381,7 +2362,7 @@
         "State": false
       }
     ],
-    "NextReset": "2023-03-30T20:00:00Z",
+    "NextReset": "2023-04-17T20:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2486,7 +2467,7 @@
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2023-04-04T08:00:00Z",
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -2565,8 +2546,8 @@
     }
   },
   "GrandCompanySquadron": {
-    "MissionCompleted": true,
-    "NextReset": "2023-04-04T08:00:00Z",
+    "MissionCompleted": false,
+    "NextReset": "2023-04-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },

@@ -1,6 +1,9 @@
 {
   "HideAction": false,
+  "HideActionOoc": false,
   "HideItem": true,
+  "HideItemOoc": false,
   "HidePopUp": false,
+  "HidePopUpOoc": false,
   "Version": 1
 }

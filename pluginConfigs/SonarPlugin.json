@@ -149,7 +149,7 @@
   "OverlayVisibleByDefault": false,
   "EnableLockedOverlays": false,
   "HideTitlebar": true,
-  "WindowClickThrough": false,
+  "WindowClickThrough": true,
   "TabBarClickThrough": false,
   "ListClickThrough": false,
   "EnableGameChatReports": true,

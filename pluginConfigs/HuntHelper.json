@@ -173,9 +173,9 @@
   "PointToBRank": false,
   "PointToSRank": false,
   "PointerDiamondSizeModifier": 1.0,
-  "SFoundCount": 5,
-  "AFoundCount": 41,
-  "BFoundCount": 33,
+  "SFoundCount": 6,
+  "AFoundCount": 55,
+  "BFoundCount": 58,
   "PresetOne": {
     "$type": "HuntHelper.Preset, HuntHelper",
     "WindowSize": 512,

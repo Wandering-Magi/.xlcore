@@ -338,7 +338,7 @@
   Threat: Caution
 12149-mirrorknight:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -356,7 +356,7 @@
   Threat: Easy
 12146-orthospider:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -400,7 +400,7 @@
   Threat: Easy
 12155-orthonaga:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -440,16 +440,16 @@
   - SlowUnknown
   - SleepUnknown
   - BindUnknown
-  Aggro: Sight
+  Aggro: Proximity
   Threat: Dangerous
 12156-orthoempuse:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
   - BindUnknown
-  Aggro: Sight
+  Aggro: Sound
   Threat: Caution
 12263-Twintania clone:
   Weakness:
@@ -467,8 +467,8 @@
   Threat: Easy
 12160-Orthos bergthurs:
   Weakness:
+  - Stun
   - Heavy
-  - StunUnknown
   - SlowUnknown
   - SleepUnknown
   - BindUnknown
@@ -485,7 +485,7 @@
   Threat: Easy
 12169-Orthos hedetet:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -494,7 +494,7 @@
   Threat: Easy
 12159-Orthos spriggan:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -503,7 +503,6 @@
   Threat: Caution
 12166-Orthos acheron:
   Weakness:
-  - StunUnknown
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -512,7 +511,7 @@
   Threat: Dangerous
 12162-Orthos kelpie:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -521,7 +520,6 @@
   Threat: Caution
 12168-Orthos goobbue:
   Weakness:
-  - StunUnknown
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -530,7 +528,6 @@
   Threat: Caution
 12158-Orthos gelato:
   Weakness:
-  - StunUnknown
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -539,7 +536,6 @@
   Threat: Caution
 12164-Orthos hoarhound:
   Weakness:
-  - StunUnknown
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -548,7 +544,7 @@
   Threat: Dangerous
 12170-Orthos mudman:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown
@@ -557,7 +553,7 @@
   Threat: Easy
 12163-Orthos kukulkan:
   Weakness:
-  - StunUnknown
+  - Stun
   - HeavyUnknown
   - SlowUnknown
   - SleepUnknown

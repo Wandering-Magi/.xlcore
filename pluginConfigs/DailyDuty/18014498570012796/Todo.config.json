@@ -1,0 +1,47 @@
+{
+  "Enable": true,
+  "PreviewMode": false,
+  "RightAlign": false,
+  "BackgroundImage": false,
+  "DailyTasks": true,
+  "WeeklyTasks": true,
+  "SpecialTasks": true,
+  "ShowHeaders": true,
+  "HideDuringQuests": true,
+  "HideInDuties": true,
+  "DailyLabel": "Daily Tasks",
+  "WeeklyLabel": "Weekly Tasks",
+  "SpecialLabel": "Special Tasks",
+  "Position": {
+    "X": 12.0,
+    "Y": 585.0
+  },
+  "FontSize": 13,
+  "HeaderFontSize": 17,
+  "CategorySpacing": 12,
+  "CategoryBackgroundOpacity": 0.4,
+  "HeaderTextColor": {
+    "X": 1.0,
+    "Y": 0.937565,
+    "Z": 0.8064516,
+    "W": 1.0
+  },
+  "HeaderTextOutline": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ModuleTextColor": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "ModuleOutlineColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  }
+}
