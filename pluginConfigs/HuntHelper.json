@@ -10,8 +10,8 @@
   "Version": 0,
   "MapWindowPos": {
     "$type": "System.Numerics.Vector2, System.Private.CoreLib",
-    "X": 2057.0,
-    "Y": 83.0
+    "X": 1410.0,
+    "Y": 46.0
   },
   "CurrentWindowSize": 512,
   "MapImageOpacityAsPercentage": 100.0,
@@ -151,7 +151,10 @@
   "ShowWorldName": true,
   "SaveSpawnData": true,
   "UseMapImages": true,
+  "EnableBackgroundScan": true,
+  "ShowOptionsWindow": false,
   "TTSVoiceName": null,
+  "TTSVolume": 50,
   "TTSAMessage": "<rank> Nearby",
   "TTSBMessage": "<rank> Nearby",
   "TTSSMessage": "<rank> in zone",
@@ -164,8 +167,6 @@
   "ChatAEnabled": true,
   "ChatBEnabled": false,
   "ChatSEnabled": true,
-  "EnableBackgroundScan": true,
-  "ShowOptionsWindow": true,
   "FlyTextAEnabled": false,
   "FlyTextBEnabled": false,
   "FlyTextSEnabled": true,
@@ -173,9 +174,9 @@
   "PointToBRank": false,
   "PointToSRank": false,
   "PointerDiamondSizeModifier": 1.0,
-  "SFoundCount": 6,
-  "AFoundCount": 55,
-  "BFoundCount": 58,
+  "SFoundCount": 23,
+  "AFoundCount": 295,
+  "BFoundCount": 453,
   "PresetOne": {
     "$type": "HuntHelper.Preset, HuntHelper",
     "WindowSize": 512,
@@ -216,6 +217,9 @@
   "HuntTrainNextTeleportMe": false,
   "HuntTrainNextTeleportMeOnCommand": false,
   "HuntTrainShowTeleportButtons": false,
+  "HuntTrainTeleportToAetheryte": false,
+  "HuntTrainShowFlagInChat": true,
+  "HuntTrainShowUIDuringIPCImport": true,
   "SpawnPointRecordAll": false,
   "CounterWindowPos": {
     "$type": "System.Numerics.Vector2, System.Private.CoreLib",

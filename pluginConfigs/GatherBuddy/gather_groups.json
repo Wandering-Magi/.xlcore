@@ -98,6 +98,14 @@
         "StartMinute": 1320,
         "EndMinute": 0,
         "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 17948,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 0,
+        "Type": "Gatherable"
       }
     ]
   },
@@ -400,6 +408,108 @@
       {
         "Annotation": "",
         "ItemId": 37822,
+        "PreferLocation": 0,
+        "StartMinute": 1320,
+        "EndMinute": 0,
+        "Type": "Gatherable"
+      }
+    ]
+  },
+  {
+    "Name": "90***",
+    "Description": "Contains Diadochos crafting nodes.",
+    "Nodes": [
+      {
+        "Annotation": "",
+        "ItemId": 39710,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 120,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39705,
+        "PreferLocation": 0,
+        "StartMinute": 120,
+        "EndMinute": 240,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39706,
+        "PreferLocation": 0,
+        "StartMinute": 240,
+        "EndMinute": 360,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39708,
+        "PreferLocation": 0,
+        "StartMinute": 360,
+        "EndMinute": 480,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39707,
+        "PreferLocation": 0,
+        "StartMinute": 480,
+        "EndMinute": 600,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39709,
+        "PreferLocation": 0,
+        "StartMinute": 600,
+        "EndMinute": 720,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39710,
+        "PreferLocation": 0,
+        "StartMinute": 720,
+        "EndMinute": 840,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39705,
+        "PreferLocation": 0,
+        "StartMinute": 840,
+        "EndMinute": 960,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39706,
+        "PreferLocation": 0,
+        "StartMinute": 960,
+        "EndMinute": 1080,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39708,
+        "PreferLocation": 0,
+        "StartMinute": 1080,
+        "EndMinute": 1200,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39707,
+        "PreferLocation": 0,
+        "StartMinute": 1200,
+        "EndMinute": 1320,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 39709,
         "PreferLocation": 0,
         "StartMinute": 1320,
         "EndMinute": 0,
@@ -816,6 +926,33 @@
         "StartMinute": 1380,
         "EndMinute": 0,
         "Type": "Gatherable"
+      }
+    ]
+  },
+  {
+    "Name": "Fishing",
+    "Description": "",
+    "Nodes": []
+  },
+  {
+    "Name": "Mastercraft Tools",
+    "Description": "",
+    "Nodes": [
+      {
+        "Annotation": "",
+        "ItemId": 8030,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 0,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 7930,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 0,
+        "Type": "Fish"
       }
     ]
   }

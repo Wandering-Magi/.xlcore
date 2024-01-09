@@ -1,19 +1,11 @@
 7262-heavenly naked yumemi:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7263-heavenly mutsu:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7264-heavenly bombfish:
@@ -34,11 +26,7 @@
   Threat: Dangerous
 7266-heavenly coralshell:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7267-heavenly gyuki:
@@ -49,11 +37,7 @@
   Threat: Easy
 7268-heavenly uwabami:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7269-heavenly kraken:
@@ -73,11 +57,7 @@
   Threat: Easy
 7271-heavenly matamata:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7272-heavenly shark:
@@ -105,11 +85,7 @@
   Threat: Easy
 7275-heavenly korpokkur:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7276-heavenly shizuku:
@@ -129,20 +105,12 @@
   Threat: Easy
 7278-heavenly hakagiri:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7279-heavenly unkiu:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7280-heavenly apa:
@@ -154,11 +122,7 @@
   Threat: Easy
 7281-heavenly otokage:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7282-heavenly tatsunoko:
@@ -183,11 +147,7 @@
   Threat: Easy
 7285-heavenly Namazu:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7286-heavenly hand:
@@ -212,11 +172,7 @@
   Threat: Easy
 7289-heavenly halgai:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7290-heavenly dhruva:
@@ -228,11 +184,7 @@
   Threat: Easy
 7291-heavenly sai taisui:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7292-heavenly hatamoto:
@@ -302,11 +254,7 @@
   Threat: Easy
 7301-heavenly gedan:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7302-heavenly hornbill:
@@ -337,11 +285,7 @@
   Threat: Caution
 7306-heavenly moko:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7307-heavenly mokin:
@@ -367,11 +311,7 @@
   Threat: Easy
 7310-heavenly shishi:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7311-heavenly onmitsu:
@@ -382,11 +322,7 @@
   Threat: Caution
 7312-heavenly vanara:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7313-heavenly dogu:

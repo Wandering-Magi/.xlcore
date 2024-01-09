@@ -1,0 +1,88 @@
+{
+  "Item1": {
+    "Name": "Azami Katarine",
+    "ServerId": 99
+  },
+  "Item2": [
+    {
+      "Name": "Oniiisan",
+      "Venture": "2022-09-03T12:05:47Z",
+      "RetainerId": 33777097238630532,
+      "VentureId": 510,
+      "Available": true,
+      "JobId": 16
+    },
+    {
+      "Name": "Oji",
+      "Venture": "2022-09-03T12:05:56Z",
+      "RetainerId": 33777097238632229,
+      "VentureId": 516,
+      "Available": true,
+      "JobId": 17
+    },
+    {
+      "Name": "Gozen",
+      "Venture": "2022-09-03T12:06:05Z",
+      "RetainerId": 33777097240256163,
+      "VentureId": 51,
+      "Available": true,
+      "JobId": 34
+    },
+    {
+      "Name": "Obasan",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 33777097241056110,
+      "VentureId": 0,
+      "Available": true,
+      "JobId": 18
+    },
+    {
+      "Name": "Daisuke-",
+      "Venture": "2022-09-04T05:26:02Z",
+      "RetainerId": 33777097241056121,
+      "VentureId": 881,
+      "Available": true,
+      "JobId": 39
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    }
+  ]
+}

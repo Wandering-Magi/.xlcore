@@ -21,7 +21,7 @@
   "EnableJumboCactpot": true,
   "NoHeaderStyling": false,
   "EnableDeliveries": true,
-  "EnableTribes": false,
+  "EnableTribes": true,
   "LeveWarning": 85,
   "TribesFinished": 12,
   "Colors": {

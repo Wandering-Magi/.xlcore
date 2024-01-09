@@ -1,5 +1,5 @@
 {
-  "$type": "SonarPlugin.Config.SonarConfiguration, SonarPlugin.Dalamud",
+  "$type": "SonarPlugin.Config.SonarConfiguration, SonarPlugin",
   "SonarConfig": {
     "$type": "Sonar.Config.SonarConfig, Sonar",
     "Version": 1,
@@ -20,7 +20,7 @@
         "ARealmReborn": {
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
-          "B": 1,
+          "B": 3,
           "A": 4,
           "S": 4,
           "SSMinion": 4,
@@ -29,7 +29,7 @@
         "Heavensward": {
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
-          "B": 1,
+          "B": 3,
           "A": 4,
           "S": 4,
           "SSMinion": 4,
@@ -38,7 +38,7 @@
         "Stormblood": {
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
-          "B": 1,
+          "B": 3,
           "A": 3,
           "S": 3,
           "SSMinion": 3,
@@ -61,6 +61,15 @@
           "S": 1,
           "SSMinion": 1,
           "SS": 1
+        },
+        "Dawntrail": {
+          "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
+          "None": 5,
+          "B": 1,
+          "A": 4,
+          "S": 5,
+          "SSMinion": 5,
+          "SS": 5
         }
       },
       "JurisdictionOverride": {
@@ -73,7 +82,8 @@
       "$type": "Sonar.Config.FateConfig, Sonar",
       "DefaultJurisdiction": 1,
       "Jurisdiction": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib"
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
+        "543": 4
       },
       "Contribute": true,
       "TrackAll": true
@@ -81,7 +91,7 @@
     "ReceiveJurisdiction": 5
   },
   "Colors": {
-    "$type": "SonarPlugin.Config.SonarConfigurationColors, SonarPlugin.Dalamud",
+    "$type": "SonarPlugin.Config.SonarConfigurationColors, SonarPlugin",
     "HuntHealthy": {
       "$type": "System.Numerics.Vector4, System.Private.CoreLib",
       "X": 0.0,
@@ -149,7 +159,7 @@
   "OverlayVisibleByDefault": false,
   "EnableLockedOverlays": false,
   "HideTitlebar": true,
-  "WindowClickThrough": true,
+  "WindowClickThrough": false,
   "TabBarClickThrough": false,
   "ListClickThrough": false,
   "EnableGameChatReports": true,
@@ -160,6 +170,9 @@
   "Opacity": 0.0,
   "SoundVolume": 0.5,
   "Language": 0,
+  "MiddleClick": 2,
+  "RightClick": 3,
+  "PreferredCityState": 0,
   "DisableChatInDuty": true,
   "DisableSoundInDuty": true,
   "AllSRankSettings": false,
@@ -176,7 +189,21 @@
   "PlaySoundARanks": false,
   "SoundFileARanks": "",
   "SendFateToChat": [],
-  "SendFateToSound": [],
+  "SendFateToSound": [
+    521,
+    424,
+    620,
+    430,
+    480,
+    493,
+    543,
+    571,
+    587,
+    589,
+    610,
+    633,
+    540
+  ],
   "PlaySoundFates": false,
   "SoundFileFates": "",
   "EnableFateChatReports": true,

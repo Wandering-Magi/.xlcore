@@ -2,19 +2,38 @@
   "DisplayDirection": 2,
   "Currencies": [
     {
+      "Enabled": true,
       "ItemId": 27,
       "IconId": 65024,
       "HqItem": false,
       "CollectibleItem": false,
-      "Name": "Allied Seal"
+      "Name": "Allied Seal",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
     },
     {
+      "Enabled": true,
       "ItemId": 10307,
       "IconId": 65034,
       "HqItem": false,
       "CollectibleItem": false,
-      "Name": "Centurio Seal"
+      "Name": "Centurio Seal",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
     }
   ],
+  "Grid": false,
+  "GridSize": 2,
+  "GridSpacing": [],
+  "GridGrowth": 0,
+  "DisableEvents": false,
   "Version": 1
 }

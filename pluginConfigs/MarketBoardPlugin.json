@@ -5,9 +5,14 @@
   "CrossWorld": true,
   "WatchForHovered": true,
   "History": [
+    26129,
     8150
   ],
   "ContextMenuIntegration": true,
   "PriceIconShown": true,
-  "KofiHidden": false
+  "NoGilSalesTax": false,
+  "KofiHidden": false,
+  "MarketBufferSize": 10,
+  "ItemRefreshTimeout": 30000,
+  "RecentHistoryDisabled": false
 }

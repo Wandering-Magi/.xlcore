@@ -1,6 +1,8 @@
 {
-  "FadePercentage": 90,
+  "FadePercentage": 70,
   "ApplyToFrame": false,
+  "ReddenPercentage": 50,
+  "ReddenOutOfRange": true,
   "ApplyToSyncActions": false,
   "Version": 1
 }

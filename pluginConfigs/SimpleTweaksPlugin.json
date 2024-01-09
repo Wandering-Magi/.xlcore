@@ -38,7 +38,6 @@
     "UiAdjustments@LootWindowDuplicateUniqueItemIndicator",
     "UiAdjustments@ExpandedCurrencyDisplay",
     "UiAdjustments@ExtendedDesynthesisWindow",
-    "UiAdjustments@FadeUnavailableActions",
     "UiAdjustments@HideAchievementsNotifications",
     "UiAdjustments@HideExperienceBar",
     "UiAdjustments@HideJobGauge",
@@ -49,21 +48,42 @@
     "UiAdjustments@ReducedDeepDungeonInfo",
     "UiAdjustments@RemoveQuestMarkerLimit",
     "UiAdjustments@ShowShieldOnHPBar",
-    "UiAdjustments@ExpPercentage"
+    "UiAdjustments@ExpPercentage",
+    "AutoOpenLootWindow",
+    "UiAdjustments@LootWindowSelectNext",
+    "UiAdjustments@RemoveCommunityFinder",
+    "UiAdjustments@TargetHP",
+    "JokeTweaks",
+    "UiAdjustments@FastSearch",
+    "UiAdjustments@FadeUnavailableActions"
   ],
   "HiddenTweaks": [],
   "CustomProviders": [],
   "BlacklistedTweaks": [
-    "StopCraftingButton",
-    "FixedShadowDistance",
-    "RefreshMarketPrices",
-    "TooltipTweaks"
+    "UiAdjustments@ExtendedDesynthesisWindow",
+    "UiAdjustments@ActionPressMirroring",
+    "UiAdjustments@ControlHintMirroring",
+    "UiAdjustments@StopCraftingButton::2",
+    "UiAdjustments@FadeUnavailableActions"
   ],
+  "HiddenCategories": [],
+  "CustomizedCommands": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "DisabledCommandAlias": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib"
+  },
   "HideKofi": true,
   "ShowExperimentalTweaks": true,
   "DisableAutoOpen": false,
   "ShowInDevMenu": false,
   "NoFools": false,
+  "NotBaby": false,
+  "AnalyticsOptOut": true,
+  "ShowAllTweaksTab": true,
+  "ShowEnabledTweaksTab": true,
+  "ShowOtherTweaksTab": true,
+  "NoCallerInLog": false,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",

@@ -1,0 +1,6 @@
+{
+  "$type": "BlueMageHelper.Configuration, BlueMageHelper",
+  "ShowHintEvenIfUnlocked": false,
+  "ShowOnlyUnlearned": true,
+  "Version": 0
+}

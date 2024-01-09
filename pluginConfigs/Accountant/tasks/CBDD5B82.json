@@ -9,32 +9,32 @@
       "LastUpdate": "2023-04-17T12:00:00Z"
     },
     "Squadron": {
-      "MissionEnd": "2023-04-19T00:03:03Z",
+      "MissionEnd": "0001-01-01T00:00:00",
       "TrainingEnd": "0001-01-01T00:00:00",
-      "MissionId": 13,
+      "MissionId": 0,
       "TrainingId": 0,
       "NewRecruits": true
     },
-    "Map": "2023-04-19T02:59:30.8701838Z",
+    "Map": "2024-01-10T04:26:21.6532198Z",
     "MiniCactpot": {
-      "LastUpdate": "2023-04-18T10:28:20.6928222Z",
-      "Tickets": 0
+      "LastUpdate": "2024-01-08T00:57:40.8318632Z",
+      "Tickets": 3
     },
     "JumboCactpot": {
-      "LastUpdate": "2023-04-17T11:39:14.053049Z",
+      "LastUpdate": "2024-01-08T00:58:52.9484032Z",
       "Tickets": [
         124,
         215,
-        1205
+        8008
       ]
     },
     "Delivery": {
-      "Allowances": 6,
-      "LastUpdate": "2023-04-18T09:03:29.115033Z"
+      "Allowances": 12,
+      "LastUpdate": "2024-01-09T08:00:03.4511473Z"
     },
     "Tribe": {
       "Allowances": 12,
-      "LastUpdate": "2023-03-25T04:36:49.8903167Z"
+      "LastUpdate": "2024-01-09T15:03:09.0292961Z"
     }
   }
 }

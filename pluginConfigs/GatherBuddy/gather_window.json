@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "ItemIds": [
+      26748,
+      26754
+    ],
+    "ItemTypes": [
+      2,
+      1
+    ],
+    "Name": "Eternal",
+    "Description": "",
+    "Enabled": false
+  }
+]

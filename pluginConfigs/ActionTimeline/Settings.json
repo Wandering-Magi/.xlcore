@@ -1,6 +1,6 @@
 {
   "$type": "ActionTimeline.Settings, ActionTimeline",
-  "ShowTimeline": true,
+  "ShowTimeline": false,
   "TimelineLocked": false,
   "OutOfCombatClearTime": 10,
   "ShowTimelineOnlyInDuty": false,
@@ -80,7 +80,7 @@
     "Z": 0.2,
     "W": 0.3
   },
-  "ShowRotation": true,
+  "ShowRotation": false,
   "RotationLocked": false,
   "ShowRotationOnlyInDuty": false,
   "ShowRotationOnlyInCombat": true,

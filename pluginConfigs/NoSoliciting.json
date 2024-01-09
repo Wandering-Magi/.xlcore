@@ -1,7 +1,7 @@
 {
   "$type": "NoSoliciting.PluginConfiguration, NoSoliciting",
   "Version": 2,
-  "AdvancedMode": false,
+  "AdvancedMode": true,
   "CustomChatFilter": false,
   "ChatSubstrings": [],
   "ChatRegexes": [],
@@ -11,7 +11,8 @@
     "Casino",
     "Feet",
     "youtube.com",
-    ""
+    "buying",
+    "selling"
   ],
   "PFRegexes": [],
   "CompiledPfRegexes": [],
@@ -71,6 +72,8 @@
   "ValidPfSubstrings": [
     "Casino",
     "Feet",
-    "youtube.com"
+    "youtube.com",
+    "buying",
+    "selling"
   ]
 }

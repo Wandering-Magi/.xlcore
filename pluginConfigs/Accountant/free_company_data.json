@@ -1,3 +1,10 @@
 {
-  "Infos": []
+  "Infos": [
+    {
+      "Name": "Mithril",
+      "Tag": "MTHRL",
+      "Leader": "Hanzo Katarine",
+      "ServerId": 99
+    }
+  ]
 }

@@ -12,6 +12,7 @@
   "Desynthesis": true,
   "Lobby": true,
   "ItemExchangeConfirmations": true,
+  "BlundervilleExitDialog": true,
   "ExceptionsYesNo": [],
   "Version": 1
 }

@@ -1,7 +1,7 @@
 BattleEffectSelf	0
 BattleEffectParty	0
 BattleEffectOther	1
-BattleEffectPvPEnemyPc	0
+BattleEffectPvPEnemyPc	1
 
 <GamePad Settings>
 PadMode	0
@@ -17,9 +17,9 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.326028
+ThirdPersonDefaultYAngle	-0.491926
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	9.000000
+ThirdPersonDefaultDistance	20.000000
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -34,7 +34,7 @@ IdleEmoteTime	5
 IdleEmoteRandomType	1
 CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
-CutsceneSkipIsHousing	0
+CutsceneSkipIsHousing	1
 PetTargetOffInCombat	1
 GroundTargetFPSPosX	50000
 GroundTargetFPSPosY	50000
@@ -44,9 +44,9 @@ TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	1
 TargetEnableMouseOverSelect	0
 GroundTargetCursorCorrectType	1
-GroundTargetActionExcuteType	0
+GroundTargetActionExcuteType	1
 AutoNearestTarget	1
-AutoNearestTargetType	0
+AutoNearestTargetType	1
 RightClickExclusionPC	0
 RightClickExclusionBNPC	0
 RightClickExclusionMinion	0
@@ -63,6 +63,7 @@ PhoenixSize	2
 GarudaSize	2
 TitanSize	2
 IfritSize	2
+PetMirageTypeFairy	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
@@ -161,7 +162,10 @@ HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
 HotbarWXHBInputOnce	0
+ExHotbarChangeHotbar1IsFashion	1
+HotbarCrossUseExDirectionAutoSwitch	1
 IdlingCameraSwitchType	1
+HotbarXHBEditEnable	1
 PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
@@ -269,6 +273,22 @@ NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
 NamePlateDispSize	0
+NamePlateDispJobIcon	0
+NamePlateDispJobIconType	0
+NamePlateSetRoleColor	0
+NamePlateColorTank	4294942528
+NamePlateEdgeTank	4282392608
+NamePlateColorHealer	4284545152
+NamePlateEdgeHealer	4278342656
+NamePlateColorDps	4286545919
+NamePlateEdgeDps	4278190220
+NamePlateColorOtherClass	4291611852
+NamePlateEdgeOtherClass	4278190080
+NamePlateDispWorldTravel	1
+NamePlateDispJobIconInPublicParty	1
+NamePlateDispJobIconInPublicOther	1
+NamePlateDispJobIconInInstanceParty	1
+NamePlateDispJobIconInInstanceOther	1
 ActiveInfo	0
 PartyList	0
 PartyListStatus	10
@@ -356,6 +376,13 @@ LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	0
 LogDragResize	0
+LogNameIconType	0
+LogDispClassJobName	0
+LogSetRoleColor	0
+LogColorRoleTank	4278223103
+LogColorRoleHealer	4286642272
+LogColorRoleDPS	4294934399
+LogColorOtherClass	4291611852
 ChatType	2
 ShopSell	0
 ColorSay	16316664
@@ -416,6 +443,7 @@ ItemSortItemLevel	1
 ItemSortItemStack	1
 ItemSortTidyingType	0
 ItemNoArmoryMaskOff	0
+ItemInventryStoreEnd	0
 InfoSettingDispWorldNameType	1
 TargetNamePlateNameType	0
 FocusTargetNamePlateNameType	0
@@ -440,7 +468,7 @@ PartyListSortTypeDps	0
 PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
-ContentsFinderListSortType	0
+ContentsFinderListSortType	1
 ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
@@ -455,6 +483,9 @@ BannerContentsDispType	1
 BannerContentsNotice	1
 MipDispType	1
 BannerContentsOrderType	0
+CCProgressAllyFixLeftSide	0
+CCMapAllyFixLeftSide	0
+DispCCCountDown	1
 EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
@@ -477,6 +508,7 @@ MouseWheelOperationAltDown	0
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
-TelepoTicketGilSetting	400
+TelepoTicketGilSetting	750
+TelepoCategoryType	0
 PvPFrontlinesGCFree	1
  

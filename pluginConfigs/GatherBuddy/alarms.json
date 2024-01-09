@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "Name": "Mastercraft Tools",
+    "Description": "",
+    "Alarms": [
+      {
+        "Name": "",
+        "Id": 8030,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 52,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 7930,
+        "SecondOffset": 0,
+        "Type": "Fish",
+        "PreferLocationId": 0,
+        "SoundId": 52,
+        "Enabled": true,
+        "PrintMessage": true
+      }
+    ],
+    "Enabled": false
+  }
+]

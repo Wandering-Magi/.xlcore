@@ -1,0 +1,36 @@
+{
+  "$type": "EurekaHelper.Configuration, EurekaHelper",
+  "DisplayFateProgress": true,
+  "DisplayBunnyFates": false,
+  "DisplayFatePop": true,
+  "PlayPopSound": true,
+  "DisplayToastPop": false,
+  "AutoPopFate": true,
+  "RandomizeMapCoords": true,
+  "AutoCreateTracker": false,
+  "AutoPopFateWithinRange": true,
+  "ShowLevelInTrackerTable": true,
+  "DisplayServerId": false,
+  "DisplayServerIdInServerInfo": false,
+  "DisplayElemental": true,
+  "DisplayElementalToast": true,
+  "ElementalCrowdsource": true,
+  "ElementalAutoMark": true,
+  "ElementalAlwaysClear": true,
+  "Version": 0,
+  "ChatChannel": 56,
+  "CustomMessages": [
+    "/shout %bossName% POP. %flag%"
+  ],
+  "NMSoundEffect": 36,
+  "BunnySoundEffect": 41,
+  "PayloadOptions": 0,
+  "ElementalPayloadOptions": 1,
+  "CompletedRelics": [
+    21956,
+    21988,
+    21972,
+    22004
+  ],
+  "Alarms": []
+}

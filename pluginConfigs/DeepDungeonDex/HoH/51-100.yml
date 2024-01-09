@@ -90,20 +90,12 @@
   Threat: Easy
 7340-heavenly wakakusa:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sound
   Threat: Caution
 7341-heavenly mannenso:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7342-heavenly iwamushi:
@@ -123,11 +115,7 @@
   Threat: Caution
 7344-heavenly doguzeri:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sound
   Threat: Easy
 7345-heavenly kosodegai:
@@ -139,11 +127,7 @@
   Threat: Easy
 7346-heavenly shitaibana:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7347-heavenly hashiri-dokoro:
@@ -155,11 +139,7 @@
   Threat: Caution
 7348-heavenly penghou:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7349-heavenly jubokko:
@@ -198,29 +178,17 @@
   Threat: Caution
 7354-heavenly noyagi:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Easy
 7355-heavenly okami:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7356-heavenly yuki-tokage:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7357-heavenly mammoth:
@@ -231,11 +199,7 @@
   Threat: Dangerous
 7358-heavenly tofu:
   Weakness:
-  - Stun
-  - Heavy
-  - Slow
-  - Sleep
-  - Bind
+  - All
   Aggro: Sight
   Threat: Caution
 7359-heavenly jujishi:

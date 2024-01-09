@@ -1,55 +1,64 @@
 5299-palace deepeye:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5300-palace gremlin:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5301-palace imp:
   Weakness:
   - Stun
+  - Heavy
   - Sleep
-  - Undead
+  - Bind
   Aggro: Sight
   Threat: Easy
 5302-palace Anubys:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5303-palace soulflayer:
   Weakness:
   - Stun
+  - Heavy
+  - Bind
   Aggro: Sight
   Threat: Easy
 5304-palace taurus:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5305-palace arch demon:
   Weakness:
   - Stun
+  - Slow
   Aggro: Proximity
   Threat: Easy
 5306-palace vodoriga:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5307-palace idol:
   Weakness:
   - Stun
+  - Slow
   Aggro: Proximity
   Threat: Easy
 5308-palace pot:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Proximity
   Threat: Easy
 5309-the Black Rider:
@@ -59,58 +68,61 @@
   Threat: Caution
 5311-palace raptor:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5312-palace tyrannosaur:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
   - Sleep
   Aggro: Sight
   Threat: Easy
 5313-palace diplocaulus:
   Weakness:
-  - Stun
+  - All
   Aggro: Proximity
   Threat: Easy
 5314-palace triceratops:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
   - Sleep
   Aggro: Proximity
   Threat: Easy
 5315-palace croc:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5316-palace mylodon:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5317-palace elbst:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5318-palace sarcosuchus:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5319-palace blade:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5320-palace pteranodon:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Proximity
   Threat: Easy
 5321-Yaquaru:
@@ -120,12 +132,12 @@
   Threat: Caution
 5322-palace bandersnatch:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5323-palace aurochs:
   Weakness:
+  - Slow
   - Sleep
   Aggro: Sight
   Threat: Easy
@@ -137,48 +149,48 @@
 5325-palace cyclops:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
   - Sleep
   Aggro: Sight
   Threat: Easy
 5326-palace sasquatch:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
   - Sleep
   Aggro: Proximity
   Threat: Easy
 5327-palace bear:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5328-palace coeurl:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5329-palace dhalmel:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Proximity
   Threat: Easy
 5330-palace lion:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5331-palace anzu:
   Weakness:
   - Stun
+  - Slow
   Aggro: Sight
   Threat: Easy
 5332-palace wolf:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5333-Gudanna:
@@ -188,118 +200,187 @@
   Threat: Caution
 5334-palace bomb:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Caution
 5335-palace wamouracampa:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sound
   Threat: Easy
 5336-palace vinegaroon:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
   - Sleep
   Aggro: Sight
   Threat: Easy
 5337-flame dragon:
   Weakness:
-  - None
+  - Slow
   Aggro: Sight
   Threat: Easy
 5338-palace worm:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sound
   Threat: Easy
 5339-palace claw:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sight
   Threat: Easy
 5340-palace eruca:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sound
   Threat: Easy
 5341-palace gallimimus:
   Weakness:
-  - Stun
-  - Sleep
+  - All
   Aggro: Sight
   Threat: Easy
 5342-palace hapalit:
   Weakness:
-  - Sleep
+  - Slow
+  - Bind
+  - HeavyUnknown
+  - SleepUnknown
   Aggro: Proximity
   Threat: Easy
 5343-palace wamoura:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sight
   Threat: Easy
 5344-palace chimera:
   Weakness:
-  - None
+  - Slow
+  Aggro: Proximity
+  Threat: Easy
+4475-grey bomb:
+  Weakness:
+  - Stun
+  Aggro: Proximity
+  Threat: Caution
+5477-giddy bomb:
+  Weakness:
+  - Stun
   Aggro: Proximity
   Threat: Easy
 5345-the Godmother:
   Weakness:
-  - None
+  - Stun
   Aggro: Boss
   Threat: Caution
 5346-palace mummy:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   - Undead
   Aggro: Proximity
   Threat: Easy
 5347-palace corse:
   Weakness:
+  - Heavy
+  - Slow
   - Undead
   Aggro: Proximity
   Threat: Easy
 5348-dark dragon:
   Weakness:
-  - None
+  - Slow
+  - Undead
   Aggro: Sight
   Threat: Easy
 5349-palace knight:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
+  - Undead
   Aggro: Proximity
   Threat: Easy
 5350-palace roselet:
   Weakness:
-  - None
+  - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sound
   Threat: Easy
 5351-palace swarm:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Bind
   Aggro: Sound
   Threat: Easy
 5352-palace gourmand:
   Weakness:
   - Stun
+  - Heavy
+  - Slow
+  - Sleep
   - Undead
   Aggro: Proximity
   Threat: Caution
 5353-palace iron corse:
   Weakness:
+  - Stun
+  - Slow
   - Undead
   Aggro: Proximity
   Threat: Easy
 5354-palace wraith:
   Weakness:
   - Stun
+  - Slow
+  - Undead
   Aggro: Proximity
   Threat: Easy
 5355-palace gravekeeper:
   Weakness:
+  - Heavy
+  - Slow
+  - Bind
   - Undead
   Aggro: Sound
+  Threat: Easy
+5357-giant corse:
+  Weakness:
+  - Undead
+  Aggro: Proximity
+  Threat: Easy
+5358-bicephalic corse:
+  Weakness:
+  - Undead
+  Aggro: Proximity
+  Threat: Easy
+5359-iron corse:
+  Weakness:
+  - Undead
+  Aggro: Proximity
   Threat: Easy
 5356-Nybeth Obdilord:
   Weakness:
