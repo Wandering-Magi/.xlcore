@@ -1,0 +1,2255 @@
+{
+  "$type": "BozjaBuddy.Configuration, BozjaBuddy",
+  "SizeConstraints": {
+    "$type": "Dalamud.Interface.Windowing.Window+WindowSizeConstraints, Dalamud",
+    "MinimumSize": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 675.0,
+      "Y": 509.0
+    },
+    "MaximumSize": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 3.4028235E+38,
+      "Y": 3.4028235E+38
+    }
+  },
+  "mAudioVolume": 1.0,
+  "mAudioPath": "Z:\\home\\magi\\.xlcore\\installedPlugins\\BozjaBuddy\\1.1.5.5\\db\\audio\\epicsaxguy.mp3",
+  "mDefaultAlarmDuration": 30,
+  "mDefaultAlarmOffset": 30,
+  "mOptionState": {
+    "$type": "System.Collections.Generic.Dictionary`2[[BozjaBuddy.GUI.GUIAssist.GUIAssistManager+GUIAssistOption, BozjaBuddy],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+    "MycInfoBoxAlarm": false,
+    "MycItemBoxRoleFilter": true,
+    "MycInfoBox": true
+  },
+  "_userCacheData": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+    "20714": 3,
+    "20715": 2,
+    "20717": 2,
+    "20718": -1,
+    "20719": 0,
+    "20720": 9,
+    "20721": 9,
+    "20725": 6,
+    "20732": -1,
+    "22352": -1,
+    "23913": 1,
+    "23914": 4,
+    "20700": 0,
+    "20703": -1,
+    "20722": 1,
+    "20723": 2,
+    "20731": -1,
+    "23919": -1,
+    "23921": 2,
+    "20724": 6,
+    "20726": 2,
+    "20727": 2,
+    "20728": 1,
+    "20729": 3,
+    "20730": 3,
+    "22345": 1,
+    "23912": 5,
+    "23920": -1,
+    "20706": 0,
+    "20707": 0,
+    "20709": -1,
+    "20710": -1,
+    "20711": 0,
+    "20712": 1,
+    "20713": -1,
+    "22355": -1,
+    "22356": -1,
+    "23908": 11,
+    "23915": 4,
+    "23916": 6,
+    "23917": 55,
+    "20705": -1,
+    "20708": 1,
+    "20716": 2,
+    "20733": 1,
+    "22344": 3,
+    "23918": 7,
+    "20701": -1,
+    "20702": -1,
+    "20704": -1,
+    "22353": -1,
+    "22354": 1,
+    "23909": 3,
+    "23910": 4,
+    "20734": 3,
+    "20735": 6,
+    "20736": 5,
+    "20737": 6,
+    "20738": 7,
+    "20739": 1,
+    "20740": 12,
+    "20741": 0,
+    "20742": 2,
+    "20743": 5,
+    "20744": 6,
+    "20745": 7,
+    "20746": 4,
+    "20747": 0,
+    "20748": -1,
+    "20749": 2,
+    "20750": 2,
+    "20751": 2,
+    "20752": 4,
+    "20753": 0,
+    "20754": 0,
+    "20755": 0,
+    "20756": 2,
+    "20757": 1,
+    "20758": -1,
+    "20759": 1,
+    "20760": 2,
+    "20761": -1,
+    "20762": 0,
+    "20763": 1,
+    "20764": 2,
+    "20765": -1,
+    "20766": 1,
+    "20767": -1,
+    "20768": 0,
+    "20769": -1,
+    "20770": 1,
+    "22346": -1,
+    "22347": -1,
+    "22348": -1,
+    "22349": 1,
+    "22350": -1,
+    "22351": -1,
+    "23907": 8,
+    "23911": 6,
+    "23922": 0
+  },
+  "_userHolsterData": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+    "20706": 1,
+    "20707": 1,
+    "20711": 1,
+    "23915": 2,
+    "23916": 2,
+    "23917": 1,
+    "20741": 1,
+    "20742": 3,
+    "20754": 2,
+    "20768": 3,
+    "23922": 1
+  },
+  "_userHolsterDataByName": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+    "Lost Spellforge": 1,
+    "Lost Steelsting": 1,
+    "Lost Reflect": 1,
+    "Lost Protect II": 2,
+    "Lost Shell II": 2,
+    "Lost Bubble": 1,
+    "Essence of the Aetherweaver": 1,
+    "Essence of the Martialist": 3,
+    "Essence of the Beast": 2,
+    "Deep Essence of the Bloodsucker": 3,
+    "Resistance Elixir": 1
+  },
+  "mMuteAAudioOnGameFocused": true,
+  "mIsCacheAlertGeneralActive": true,
+  "mCacheAlertGeneralThreshold": 10,
+  "mIsCacheAlertSpecificActive": true,
+  "_cacheAlertSpecificThresholds": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "mIsCacheAlertIgnoringActive": false,
+  "mIsShowingRecLoadout": true,
+  "mIsInGridMode_FieldNoteTableSection": true,
+  "mIsInGridMode_LostActionTableSection": true,
+  "mIsAroVisible_LostActionTableSection": true,
+  "mIsAuxiFocused": false,
+  "mCacheAlertIgnoreIds": [],
+  "mUserFieldNotes": [],
+  "mIsAuxiUsingNGV": true,
+  "mAuxiNGVSaveData": null,
+  "mRelicProgress": {
+    "$type": "System.Collections.Generic.Dictionary`2[[BozjaBuddy.Utils.Job, BozjaBuddy],[BozjaBuddy.GUI.Sections.RelicSection+RelicStep, BozjaBuddy]], System.Private.CoreLib",
+    "WAR": 0,
+    "PLD": 0,
+    "GNB": 0,
+    "DRK": 0,
+    "WHM": 0,
+    "SCH": 0,
+    "AST": 0,
+    "BLM": 0,
+    "SMN": 0,
+    "RDM": 0,
+    "MNK": 0,
+    "DRG": 0,
+    "SAM": 0,
+    "NIN": 0,
+    "BRD": 0,
+    "DNC": 0,
+    "MCH": 0
+  },
+  "mIsRelicFirstTime": true,
+  "mRelicOTG2Path": 0,
+  "mRelicCurrJob": 19,
+  "mGuiAssistConfig": {
+    "$type": "BozjaBuddy.Configuration+GuiAssistConfig, BozjaBuddy",
+    "itemBox": {
+      "$type": "BozjaBuddy.Configuration+GuiAssistConfig+ItemBox, BozjaBuddy",
+      "isDisabled_All": false,
+      "isDisabled_Toolbar": false,
+      "isDisabled_LoadoutMiniview": false,
+      "isDisabled_FilterText": false,
+      "isDisabled_FilterLoadout": false,
+      "isDisabled_AutoRoleFilter": false,
+      "refreshRate": 0.3,
+      "filterTextLevel": 1,
+      "filterLoadoutLevel": 0,
+      "refreshRateDefault": 0.3,
+      "userCacheData": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "20714": 3,
+        "20715": 2,
+        "20717": 2,
+        "20718": -1,
+        "20719": 0,
+        "20720": 9,
+        "20721": 9,
+        "20725": 6,
+        "20732": -1,
+        "22352": -1,
+        "23913": 1,
+        "23914": 4,
+        "20700": 0,
+        "20703": -1,
+        "20722": 1,
+        "20723": 2,
+        "20731": -1,
+        "23919": -1,
+        "23921": 2,
+        "20724": 6,
+        "20726": 2,
+        "20727": 2,
+        "20728": 1,
+        "20729": 3,
+        "20730": 3,
+        "22345": 1,
+        "23912": 5,
+        "23920": -1,
+        "20706": 0,
+        "20707": 0,
+        "20709": -1,
+        "20710": -1,
+        "20711": 0,
+        "20712": 1,
+        "20713": -1,
+        "22355": -1,
+        "22356": -1,
+        "23908": 11,
+        "23915": 4,
+        "23916": 6,
+        "23917": 55,
+        "20705": -1,
+        "20708": 1,
+        "20716": 2,
+        "20733": 1,
+        "22344": 3,
+        "23918": 7,
+        "20701": -1,
+        "20702": -1,
+        "20704": -1,
+        "22353": -1,
+        "22354": 1,
+        "23909": 3,
+        "23910": 4,
+        "20734": 3,
+        "20735": 6,
+        "20736": 5,
+        "20737": 6,
+        "20738": 7,
+        "20739": 1,
+        "20740": 12,
+        "20741": 0,
+        "20742": 2,
+        "20743": 5,
+        "20744": 6,
+        "20745": 7,
+        "20746": 4,
+        "20747": 0,
+        "20748": -1,
+        "20749": 2,
+        "20750": 2,
+        "20751": 2,
+        "20752": 4,
+        "20753": 0,
+        "20754": 0,
+        "20755": 0,
+        "20756": 2,
+        "20757": 1,
+        "20758": -1,
+        "20759": 1,
+        "20760": 2,
+        "20761": -1,
+        "20762": 0,
+        "20763": 1,
+        "20764": 2,
+        "20765": -1,
+        "20766": 1,
+        "20767": -1,
+        "20768": 0,
+        "20769": -1,
+        "20770": 1,
+        "22346": -1,
+        "22347": -1,
+        "22348": -1,
+        "22349": 1,
+        "22350": -1,
+        "22351": -1,
+        "23907": 8,
+        "23911": 6,
+        "23922": 0
+      },
+      "userHolsterData": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "20706": 1,
+        "20707": 1,
+        "20711": 1,
+        "23915": 2,
+        "23916": 2,
+        "23917": 1,
+        "20741": 1,
+        "20742": 3,
+        "20754": 2,
+        "20768": 3,
+        "23922": 1
+      },
+      "userHolsterDataByName": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "Lost Spellforge": 1,
+        "Lost Steelsting": 1,
+        "Lost Reflect": 1,
+        "Lost Protect II": 2,
+        "Lost Shell II": 2,
+        "Lost Bubble": 1,
+        "Essence of the Aetherweaver": 1,
+        "Essence of the Martialist": 3,
+        "Essence of the Beast": 2,
+        "Deep Essence of the Bloodsucker": 3,
+        "Resistance Elixir": 1
+      }
+    },
+    "overlay": {
+      "$type": "BozjaBuddy.Configuration+GuiAssistConfig+Overlay, BozjaBuddy",
+      "isUsingJobSpecific": false,
+      "currentSlotIndex": 0
+    },
+    "itemInfo": {
+      "$type": "BozjaBuddy.Configuration+GuiAssistConfig+ItemInfo, BozjaBuddy",
+      "isDisabled_All": false,
+      "isDisabled_WhenNotFocused": true
+    },
+    "charStats": {
+      "$type": "BozjaBuddy.Configuration+GuiAssistConfig+CharacterStats, BozjaBuddy",
+      "isInit": false,
+      "rank": 0,
+      "mettle": 0,
+      "mettleMax": 0,
+      "proof": 0,
+      "cluster": 0,
+      "noto": 0,
+      "rayFortitude": 0,
+      "rayValor": 0,
+      "raySuccor": 0
+    }
+  },
+  "UserLoadouts": {
+    "$type": "BozjaBuddy.Data.LoadoutListJson, BozjaBuddy",
+    "mLoadouts": [
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "README (hide recommendeded loadouts by the [toggle button] on the right half of the toolbar above)",
+        "_mDescription": "This is a loadout.\n- ALWAYS save after finishing loadout, or click the edit button again to discard unsaved changes.\n- You can add lost actions from this below menu, or the left menu, or the Lost action table.\n- You can copy/import loadouts. They're just json. There might be exploits using this method so be aware.\n",
+        "_mGroup": ".default",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "mRoleFlagBit": 279
+        },
+        "_mWeight": 47,
+        "mId": 10000,
+        "mName": "README (hide recommendeded loadouts by the [toggle button] on the right half of the toolbar above)",
+        "mDescription": "This is a loadout.\n- ALWAYS save after finishing loadout, or click the edit button again to discard unsaved changes.\n- You can add lost actions from this below menu, or the left menu, or the Lost action table.\n- You can copy/import loadouts. They're just json. There might be exploits using this method so be aware.\n",
+        "mGroup": ".default",
+        "mRoleInt": 11111,
+        "mWeight": 47,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20707": 2,
+          "20708": 4,
+          "23919": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Tank - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Tanks\n(as of 03/10/2023)",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 55,
+        "mId": 10001,
+        "mName": "DRS - ABBA - Tank - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Tanks\n(as of 03/10/2023)",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20721": 1,
+          "20736": 1,
+          "22350": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Tank - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Tanks\n(as of 03/10/2023)",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 99,
+        "mId": 10002,
+        "mName": "DRS - ABBA - Tank - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Tanks\n(as of 03/10/2023)",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20736": 4,
+          "22355": 2,
+          "22345": 1,
+          "20737": 1,
+          "23911": 4
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Healer - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Healers\n(as of 03/10/2023)\n------\n",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 48,
+        "mId": 10003,
+        "mName": "DRS - ABBA - Healer - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Healers\n(as of 03/10/2023)\n------\n",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 48,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22351": 1,
+          "20736": 1,
+          "22354": 1,
+          "23913": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Healer - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Healers\n(as of 03/10/2023)\n------\n- Bring either Steelsting or Spellforge. Communicate with the other healer.\n\n- If you don't have access to Light Curtains, bring an extra Lost Reflect instead.\n\n- If you don't have access to Lost Chainspell, or Lost Shell II, stock up on more Lost Arise or Resistance Reraisers.\n\n- Your two starting actions are flexible. No Shell II is needed until Trinity Avowed (3rd boss) so more damage is usually recommended. Some possibilities for those 2 slots are: Lost Seraph Strike, Lost Chainspell, Lost Burst, Lost Shell II, Lost Arise.\n\n- If you have less than 99 holster space, remove Lost Arise or Resistance Reraisers until your loadout fits.",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 102,
+        "mId": 10004,
+        "mName": "DRS - ABBA - Healer - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Healers\n(as of 03/10/2023)\n------\n- Bring either Steelsting or Spellforge. Communicate with the other healer.\n\n- If you don't have access to Light Curtains, bring an extra Lost Reflect instead.\n\n- If you don't have access to Lost Chainspell, or Lost Shell II, stock up on more Lost Arise or Resistance Reraisers.\n\n- Your two starting actions are flexible. No Shell II is needed until Trinity Avowed (3rd boss) so more damage is usually recommended. Some possibilities for those 2 slots are: Lost Seraph Strike, Lost Chainspell, Lost Burst, Lost Shell II, Lost Arise.\n\n- If you have less than 99 holster space, remove Lost Arise or Resistance Reraisers until your loadout fits.",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 102,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20711": 1,
+          "20707": 1,
+          "20706": 1,
+          "20730": 5,
+          "23916": 2,
+          "20704": 2,
+          "20736": 5,
+          "23911": 6
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Melee / Rend - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Melee DPS with Rend armor role.\n(as of 03/10/2023)\n------\n- If you don't have access to Light Curtains, stock on more Resistance Potion Kits or Resistance Potions.\n\n- If you have less than 99 holster space, remove Potion Kits, Potions, or Resistance Reraisers until your loadout fits.",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 99,
+        "mId": 10005,
+        "mName": "DRS - ABBA - Melee / Rend - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Melee DPS with Rend armor role.\n(as of 03/10/2023)\n------\n- If you don't have access to Light Curtains, stock on more Resistance Potion Kits or Resistance Potions.\n\n- If you have less than 99 holster space, remove Potion Kits, Potions, or Resistance Reraisers until your loadout fits.",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 7,
+          "23911": 2,
+          "22353": 2,
+          "20717": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Melee / Rend - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Melee DPS with Rend armor role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 53,
+        "mId": 10006,
+        "mName": "DRS - ABBA - Melee / Rend - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Melee DPS with Rend armor role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 53,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22348": 1,
+          "20736": 1,
+          "22353": 1,
+          "20717": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Melee - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Melee DPS (except for Rend armor).\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 55,
+        "mId": 10007,
+        "mName": "DRS - ABBA - Melee - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Melee DPS (except for Rend armor).\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22348": 1,
+          "20736": 1,
+          "20721": 1,
+          "20717": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Melee - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Melee DPS (except for Rend armor).\n(as of 03/10/2023)\n------\n- If you don't have access to Light Curtains, stock on more Resistance Potion Kits or Resistance Potions.\n\n- If you have less than 99 holster space, remove Potion Kits, Potions, or Resistance Reraisers until your loadout fits. ",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 99,
+        "mId": 10008,
+        "mName": "DRS - ABBA - Melee - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Melee DPS (except for Rend armor).\n(as of 03/10/2023)\n------\n- If you don't have access to Light Curtains, stock on more Resistance Potion Kits or Resistance Potions.\n\n- If you have less than 99 holster space, remove Potion Kits, Potions, or Resistance Reraisers until your loadout fits. ",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20737": 1,
+          "20736": 6,
+          "20721": 2,
+          "20717": 1,
+          "23911": 3
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - BLM Flare - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for BLM with Flare star role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 65,
+        "mId": 10009,
+        "mName": "DRS - ABBA - BLM Flare - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for BLM with Flare star role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 65,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22347": 1,
+          "20736": 1,
+          "22352": 1,
+          "20715": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - BLM Flare - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for BLM with Flare star role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 99,
+        "mId": 10010,
+        "mName": "DRS - ABBA - BLM Flare - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for BLM with Flare star role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23911": 2,
+          "20738": 16,
+          "20736": 3,
+          "20715": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster Cure IV - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with Cure IV role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 50,
+        "mId": 10011,
+        "mName": "DRS - ABBA - Caster Cure IV - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with Cure IV role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 50,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20715": 1,
+          "20729": 1,
+          "20736": 1,
+          "22347": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster Cure IV - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with Cure IV role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 99,
+        "mId": 10012,
+        "mName": "DRS - ABBA - Caster Cure IV - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with Cure IV role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20715": 1,
+          "20729": 2,
+          "20736": 5,
+          "23911": 3,
+          "20738": 7
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster FoM - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 55,
+        "mId": 10013,
+        "mName": "DRS - ABBA - Caster FoM - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20715": 1,
+          "20720": 1,
+          "20736": 1,
+          "22347": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster FoM - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 99,
+        "mId": 10014,
+        "mName": "DRS - ABBA - Caster FoM - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20715": 1,
+          "20720": 2,
+          "20736": 5,
+          "23911": 2,
+          "20738": 4
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster Chainspell - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 50,
+        "mId": 10015,
+        "mName": "DRS - ABBA - Caster Chainspell - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 50,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23913": 1,
+          "20736": 1,
+          "22347": 1,
+          "20721": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Caster Chainspell - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 99,
+        "mId": 10016,
+        "mName": "DRS - ABBA - Caster Chainspell - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Caster with no role.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20721": 2,
+          "23913": 1,
+          "20736": 6,
+          "23911": 2,
+          "20738": 3
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Physical Range - Preload",
+        "_mDescription": "ABBA's recommended beginner loadout for Physical range.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 53,
+        "mId": 10017,
+        "mName": "DRS - ABBA - Physical Range - Preload",
+        "mDescription": "ABBA's recommended beginner loadout for Physical range.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 53,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22349": 1,
+          "20736": 1,
+          "22356": 1,
+          "20717": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - ABBA - Physical Range - Instance",
+        "_mDescription": "ABBA's recommended beginner loadout for Physical range.\n(as of 03/10/2023)\n------",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 99,
+        "mId": 10018,
+        "mName": "DRS - ABBA - Physical Range - Instance",
+        "mDescription": "ABBA's recommended beginner loadout for Physical range.\n(as of 03/10/2023)\n------",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23911": 6,
+          "20736": 6,
+          "22356": 1,
+          "20717": 1,
+          "23912": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Tank - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Tank baseline holster\n\nNotes:\n- If DRK, realistic scenario for necessary LD usage is 3: \n  - Trap sweep during slime/golem\n  - Guard invuln mechanic (turret or aura sphere)\n  - Trap sweep during mino\n  Bring enough elixir to cover these in case a healer can't heal you out of living dead, i.e. no WHM bene.\n- If there are 2 tanks in the party, the non-primary Aethershield tank should bring a 2nd DPS action in holster\n- HAVE THE TANK DISCUSSION: \n  - If MT has a co-tank in party, co-tank will be responsible for Aethershield.\n  - If MT has no co-tank in party, designate a non-unique DPS (Rank 16 or higher) as pseudotank and have them bring the pseudotank kit.\n- If necessary, 1 Tank in entire raid will be responsible for Lost Protect (not Main tank)\"\n",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 55,
+        "mId": 10019,
+        "mName": "DRS - LegoSteppers - Tank - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Tank baseline holster\n\nNotes:\n- If DRK, realistic scenario for necessary LD usage is 3: \n  - Trap sweep during slime/golem\n  - Guard invuln mechanic (turret or aura sphere)\n  - Trap sweep during mino\n  Bring enough elixir to cover these in case a healer can't heal you out of living dead, i.e. no WHM bene.\n- If there are 2 tanks in the party, the non-primary Aethershield tank should bring a 2nd DPS action in holster\n- HAVE THE TANK DISCUSSION: \n  - If MT has a co-tank in party, co-tank will be responsible for Aethershield.\n  - If MT has no co-tank in party, designate a non-unique DPS (Rank 16 or higher) as pseudotank and have them bring the pseudotank kit.\n- If necessary, 1 Tank in entire raid will be responsible for Lost Protect (not Main tank)\"\n",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22350": 1,
+          "20736": 1,
+          "20717": 1,
+          "20721": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Tank - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Tank baseline holster\n\nNotes:\n- If DRK, realistic scenario for necessary LD usage is 3: \n  - Trap sweep during slime/golem\n  - Guard invuln mechanic (turret or aura sphere)\n  - Trap sweep during mino\n  Bring enough elixir to cover these in case a healer can't heal you out of living dead, i.e. no WHM bene.\n- If there are 2 tanks in the party, the non-primary Aethershield tank should bring a 2nd DPS action in holster\n- HAVE THE TANK DISCUSSION: \n  - If MT has a co-tank in party, co-tank will be responsible for Aethershield.\n  - If MT has no co-tank in party, designate a non-unique DPS (Rank 16 or higher) as pseudotank and have them bring the pseudotank kit.\n- If necessary, 1 Tank in entire raid will be responsible for Lost Protect (not Main tank)\"\n",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 61,
+        "mId": 10020,
+        "mName": "DRS - LegoSteppers - Tank - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Tank baseline holster\n\nNotes:\n- If DRK, realistic scenario for necessary LD usage is 3: \n  - Trap sweep during slime/golem\n  - Guard invuln mechanic (turret or aura sphere)\n  - Trap sweep during mino\n  Bring enough elixir to cover these in case a healer can't heal you out of living dead, i.e. no WHM bene.\n- If there are 2 tanks in the party, the non-primary Aethershield tank should bring a 2nd DPS action in holster\n- HAVE THE TANK DISCUSSION: \n  - If MT has a co-tank in party, co-tank will be responsible for Aethershield.\n  - If MT has no co-tank in party, designate a non-unique DPS (Rank 16 or higher) as pseudotank and have them bring the pseudotank kit.\n- If necessary, 1 Tank in entire raid will be responsible for Lost Protect (not Main tank)\"\n",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 61,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 2,
+          "22355": 2,
+          "20721": 1,
+          "22345": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Healer - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Notes:\n- Bring Spellforge XOR Steelsting, not both. HAVE THE HEALER DISCUSSION: Coordinate with cohealer or pseudohealer so one of you have steelsting and the other has spellforge.\n  - If Healer has no co-healer, designate a non-unique DPS as a pseudohealer and have them bring the pseudohealer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE HEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- I'm only asking for 3 Lost Arise per healer. If we have a mass-res situation after a fight, we will just exit and re-do the fight so people get more practice. If you bring more than 3, you'll be thanked, but realistically speaking \"thanks\" doesn't pay the bills.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 20,
+        "mId": 10021,
+        "mName": "DRS - LegoSteppers - Healer - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Notes:\n- Bring Spellforge XOR Steelsting, not both. HAVE THE HEALER DISCUSSION: Coordinate with cohealer or pseudohealer so one of you have steelsting and the other has spellforge.\n  - If Healer has no co-healer, designate a non-unique DPS as a pseudohealer and have them bring the pseudohealer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE HEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- I'm only asking for 3 Lost Arise per healer. If we have a mass-res situation after a fight, we will just exit and re-do the fight so people get more practice. If you bring more than 3, you'll be thanked, but realistically speaking \"thanks\" doesn't pay the bills.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 20,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "22351": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Healer - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Notes:\n- Bring Spellforge XOR Steelsting, not both. HAVE THE HEALER DISCUSSION: Coordinate with cohealer or pseudohealer so one of you have steelsting and the other has spellforge.\n  - If Healer has no co-healer, designate a non-unique DPS as a pseudohealer and have them bring the pseudohealer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE HEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- I'm only asking for 3 Lost Arise per healer. If we have a mass-res situation after a fight, we will just exit and re-do the fight so people get more practice. If you bring more than 3, you'll be thanked, but realistically speaking \"thanks\" doesn't pay the bills.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 68,
+        "mId": 10022,
+        "mName": "DRS - LegoSteppers - Healer - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Notes:\n- Bring Spellforge XOR Steelsting, not both. HAVE THE HEALER DISCUSSION: Coordinate with cohealer or pseudohealer so one of you have steelsting and the other has spellforge.\n  - If Healer has no co-healer, designate a non-unique DPS as a pseudohealer and have them bring the pseudohealer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE HEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- I'm only asking for 3 Lost Arise per healer. If we have a mass-res situation after a fight, we will just exit and re-do the fight so people get more practice. If you bring more than 3, you'll be thanked, but realistically speaking \"thanks\" doesn't pay the bills.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 68,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20706": 1,
+          "20707": 1,
+          "23916": 1,
+          "20711": 2,
+          "20704": 1,
+          "20730": 3,
+          "20724": 1,
+          "20736": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Melee - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Melee DPS baseline holster\n\nNotes:\n- Banner of Honored Sacrifice has an interaction with melee pure essence that makes it 30 seconds and bleed for 1 HP per tick\n- TWO melee IN ENTIRE RAID shall bring Rend Armor and keep as close to 100% uptime on boss (1 slotted, 2 in holster)\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 55,
+        "mId": 10023,
+        "mName": "DRS - LegoSteppers - Melee - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Melee DPS baseline holster\n\nNotes:\n- Banner of Honored Sacrifice has an interaction with melee pure essence that makes it 30 seconds and bleed for 1 HP per tick\n- TWO melee IN ENTIRE RAID shall bring Rend Armor and keep as close to 100% uptime on boss (1 slotted, 2 in holster)\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "22348": 1,
+          "20717": 1,
+          "20721": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Melee - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Melee DPS baseline holster\n\nNotes:\n- Banner of Honored Sacrifice has an interaction with melee pure essence that makes it 30 seconds and bleed for 1 HP per tick\n- TWO melee IN ENTIRE RAID shall bring Rend Armor and keep as close to 100% uptime on boss (1 slotted, 2 in holster)\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 51,
+        "mId": 10024,
+        "mName": "DRS - LegoSteppers - Melee - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Melee DPS baseline holster\n\nNotes:\n- Banner of Honored Sacrifice has an interaction with melee pure essence that makes it 30 seconds and bleed for 1 HP per tick\n- TWO melee IN ENTIRE RAID shall bring Rend Armor and keep as close to 100% uptime on boss (1 slotted, 2 in holster)\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 51,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 2,
+          "20717": 1,
+          "20721": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Physical Range - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Physical Ranged DPS baseline holster\n\nNotes:\n- keep Lost Dervish generally on cooldown. Exceptions are when we call to hold burst (boss is untargetable, or we have downtime due to running)\n- If you have an MP-hungry teammate, consider bringing Lost Cure II, as you have a hidden pure essence interaction that gives your heal target a 5000 MP refresh at the expense of a stacking slow debuff on yourself.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 53,
+        "mId": 10025,
+        "mName": "DRS - LegoSteppers - Physical Range - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Physical Ranged DPS baseline holster\n\nNotes:\n- keep Lost Dervish generally on cooldown. Exceptions are when we call to hold burst (boss is untargetable, or we have downtime due to running)\n- If you have an MP-hungry teammate, consider bringing Lost Cure II, as you have a hidden pure essence interaction that gives your heal target a 5000 MP refresh at the expense of a stacking slow debuff on yourself.\"",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 53,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "22356": 1,
+          "20736": 1,
+          "22349": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Physical Range - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Physical Range.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Physical Ranged DPS baseline holster\n\nNotes:\n- keep Lost Dervish generally on cooldown. Exceptions are when we call to hold burst (boss is untargetable, or we have downtime due to running)\n- If you have an MP-hungry teammate, consider bringing Lost Cure II, as you have a hidden pure essence interaction that gives your heal target a 5000 MP refresh at the expense of a stacking slow debuff on yourself.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 49,
+        "mId": 10026,
+        "mName": "DRS - LegoSteppers - Physical Range - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Physical Range.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Physical Ranged DPS baseline holster\n\nNotes:\n- keep Lost Dervish generally on cooldown. Exceptions are when we call to hold burst (boss is untargetable, or we have downtime due to running)\n- If you have an MP-hungry teammate, consider bringing Lost Cure II, as you have a hidden pure essence interaction that gives your heal target a 5000 MP refresh at the expense of a stacking slow debuff on yourself.\"",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 49,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "22356": 1,
+          "20736": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Caster (Non-flare) - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Caster DPS baseline holster\n\nNotes:\n- cast Cure IV to buff party with a strong 1-minute bravery, and keep bravery uptime as close to 100% as possible.  This is made possible through the caster pure essence hidden interaction.\n- not listed in holster: all the Resistance Ether Kits you'll need to support Font usage.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 50,
+        "mId": 10027,
+        "mName": "DRS - LegoSteppers - Caster (Non-flare) - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Caster DPS baseline holster\n\nNotes:\n- cast Cure IV to buff party with a strong 1-minute bravery, and keep bravery uptime as close to 100% as possible.  This is made possible through the caster pure essence hidden interaction.\n- not listed in holster: all the Resistance Ether Kits you'll need to support Font usage.\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 50,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20729": 1,
+          "20715": 1,
+          "20736": 1,
+          "22347": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Caster (Non-flare) - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Caster DPS baseline holster\n\nNotes:\n- cast Cure IV to buff party with a strong 1-minute bravery, and keep bravery uptime as close to 100% as possible.  This is made possible through the caster pure essence hidden interaction.\n- not listed in holster: all the Resistance Ether Kits you'll need to support Font usage.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 46,
+        "mId": 10028,
+        "mName": "DRS - LegoSteppers - Caster (Non-flare) - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Physical Range\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"Caster DPS baseline holster\n\nNotes:\n- cast Cure IV to buff party with a strong 1-minute bravery, and keep bravery uptime as close to 100% as possible.  This is made possible through the caster pure essence hidden interaction.\n- not listed in holster: all the Resistance Ether Kits you'll need to support Font usage.\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 46,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20729": 1,
+          "20715": 1,
+          "20736": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Pseudotank - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudotank baseline holster (requires Rank 16 or higher)\n\nReason: Your team does not have a 2nd tank, and thus does not have a 2nd tank's party mitigations.\n\nNotes:\n- Pseudotanks are not running party/raid utility outside of Stoneskin II during TA/Queen.\n- Lost Stoneskin II is slotted in pre-TA and kept in through Queen, cast it before and after each raidwide of concern to absorb both the initial hit and subsequent bleed\n- It is possible, albeit rare, that no DPS in a given team can equip Lost Stoneskin II due to none of them meeting the Resistance Rank requirement to get the skill from the fragment. If this happens, that 8-man team will just assume the increased risk of having a complete party wipe during TA/Queen.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 8,
+        "mId": 10029,
+        "mName": "DRS - LegoSteppers - Pseudotank - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudotank baseline holster (requires Rank 16 or higher)\n\nReason: Your team does not have a 2nd tank, and thus does not have a 2nd tank's party mitigations.\n\nNotes:\n- Pseudotanks are not running party/raid utility outside of Stoneskin II during TA/Queen.\n- Lost Stoneskin II is slotted in pre-TA and kept in through Queen, cast it before and after each raidwide of concern to absorb both the initial hit and subsequent bleed\n- It is possible, albeit rare, that no DPS in a given team can equip Lost Stoneskin II due to none of them meeting the Resistance Rank requirement to get the skill from the fragment. If this happens, that 8-man team will just assume the increased risk of having a complete party wipe during TA/Queen.\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 8,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Pseudotank - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudotank baseline holster (requires Rank 16 or higher)\n\nReason: Your team does not have a 2nd tank, and thus does not have a 2nd tank's party mitigations.\n\nNotes:\n- Pseudotanks are not running party/raid utility outside of Stoneskin II during TA/Queen.\n- Lost Stoneskin II is slotted in pre-TA and kept in through Queen, cast it before and after each raidwide of concern to absorb both the initial hit and subsequent bleed\n- It is possible, albeit rare, that no DPS in a given team can equip Lost Stoneskin II due to none of them meeting the Resistance Rank requirement to get the skill from the fragment. If this happens, that 8-man team will just assume the increased risk of having a complete party wipe during TA/Queen.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 40,
+        "mId": 10030,
+        "mName": "DRS - LegoSteppers - Pseudotank - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudotank baseline holster (requires Rank 16 or higher)\n\nReason: Your team does not have a 2nd tank, and thus does not have a 2nd tank's party mitigations.\n\nNotes:\n- Pseudotanks are not running party/raid utility outside of Stoneskin II during TA/Queen.\n- Lost Stoneskin II is slotted in pre-TA and kept in through Queen, cast it before and after each raidwide of concern to absorb both the initial hit and subsequent bleed\n- It is possible, albeit rare, that no DPS in a given team can equip Lost Stoneskin II due to none of them meeting the Resistance Rank requirement to get the skill from the fragment. If this happens, that 8-man team will just assume the increased risk of having a complete party wipe during TA/Queen.\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 40,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 2,
+          "23908": 1,
+          "22345": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Pseudohealer - Preload",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudohealer baseline holster\n\nReason: Your team does not have a 2nd healer.\n\nNotes:\n- Pseudohealers are not running party/raid utility outside of the healer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE PSEUDOHEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- The Lost Cure III should be used going into Queen soft enrage. Use in conjunction with Lost Cure IV (Lost Cure III is a GCD heal, Lost Cure IV is oGCD)\n- A sole caster in a party running Lost Cure IV for bravery is not \"also a pseudohealer\", their Cure IVs are specifically for buffing the party with 1-minute 10% Bravery.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 13,
+        "mId": 10031,
+        "mName": "DRS - LegoSteppers - Pseudohealer - Preload",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudohealer baseline holster\n\nReason: Your team does not have a 2nd healer.\n\nNotes:\n- Pseudohealers are not running party/raid utility outside of the healer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE PSEUDOHEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- The Lost Cure III should be used going into Queen soft enrage. Use in conjunction with Lost Cure IV (Lost Cure III is a GCD heal, Lost Cure IV is oGCD)\n- A sole caster in a party running Lost Cure IV for bravery is not \"also a pseudohealer\", their Cure IVs are specifically for buffing the party with 1-minute 10% Bravery.\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 13,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20729": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - LegoSteppers - Pseudohealer - Instance",
+        "_mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudohealer baseline holster\n\nReason: Your team does not have a 2nd healer.\n\nNotes:\n- Pseudohealers are not running party/raid utility outside of the healer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE PSEUDOHEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- The Lost Cure III should be used going into Queen soft enrage. Use in conjunction with Lost Cure IV (Lost Cure III is a GCD heal, Lost Cure IV is oGCD)\n- A sole caster in a party running Lost Cure IV for bravery is not \"also a pseudohealer\", their Cure IVs are specifically for buffing the party with 1-minute 10% Bravery.\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 79,
+        "mId": 10032,
+        "mName": "DRS - LegoSteppers - Pseudohealer - Instance",
+        "mDescription": "Lego Steppers' recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Nacl Free:\n\"DPS Pseudohealer baseline holster\n\nReason: Your team does not have a 2nd healer.\n\nNotes:\n- Pseudohealers are not running party/raid utility outside of the healer kit.\n- A single Lost Reflect can be replaced with 4 Light Curtains IF THE PSEUDOHEALER KNOWS HOW TO TIME REFLECT DURING REFLECT MECHANICS. If in doubt, just bring 2 Lost Reflects and don't worry about it.\n- The Lost Cure III should be used going into Queen soft enrage. Use in conjunction with Lost Cure IV (Lost Cure III is a GCD heal, Lost Cure IV is oGCD)\n- A sole caster in a party running Lost Cure IV for bravery is not \"also a pseudohealer\", their Cure IVs are specifically for buffing the party with 1-minute 10% Bravery.\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 79,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 2,
+          "20729": 2,
+          "22345": 1,
+          "20706": 1,
+          "20707": 1,
+          "20711": 2,
+          "20704": 1,
+          "23916": 2,
+          "20728": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Aethershield Tank - Preload",
+        "_mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- If your main tank dies during TA/Queen, swap Font of Power with Aethershield. Once the fight finishes swap back to Font of Power. Also now is a good time to learn to Blood Rage. Take some time to practice on the dummies in the BSF/Zadnor zones.\n- Mimic should be used to keep your actions refreshed before fights. The best places to mimic are Queen's Guard and TA. Coordinate with other tanks to see what DPS actions they are running so you can both keep your actions topped off. \n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 70,
+        "mId": 10033,
+        "mName": "DRS - PEBE - Aethershield Tank - Preload",
+        "mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- If your main tank dies during TA/Queen, swap Font of Power with Aethershield. Once the fight finishes swap back to Font of Power. Also now is a good time to learn to Blood Rage. Take some time to practice on the dummies in the BSF/Zadnor zones.\n- Mimic should be used to keep your actions refreshed before fights. The best places to mimic are Queen's Guard and TA. Coordinate with other tanks to see what DPS actions they are running so you can both keep your actions topped off. \n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 70,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "23921": 1,
+          "20736": 1,
+          "22350": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Aethershield Tank - Instance",
+        "_mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- If your main tank dies during TA/Queen, swap Font of Power with Aethershield. Once the fight finishes swap back to Font of Power. Also now is a good time to learn to Blood Rage. Take some time to practice on the dummies in the BSF/Zadnor zones.\n- Mimic should be used to keep your actions refreshed before fights. The best places to mimic are Queen's Guard and TA. Coordinate with other tanks to see what DPS actions they are running so you can both keep your actions topped off. \n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 75,
+        "mId": 10034,
+        "mName": "DRS - PEBE - Aethershield Tank - Instance",
+        "mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- If your main tank dies during TA/Queen, swap Font of Power with Aethershield. Once the fight finishes swap back to Font of Power. Also now is a good time to learn to Blood Rage. Take some time to practice on the dummies in the BSF/Zadnor zones.\n- Mimic should be used to keep your actions refreshed before fights. The best places to mimic are Queen's Guard and TA. Coordinate with other tanks to see what DPS actions they are running so you can both keep your actions topped off. \n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 75,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20733": 2,
+          "20736": 1,
+          "22355": 2,
+          "23911": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Offtank Tank (Blue DPS) - Preload",
+        "_mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You pack Aethershield in case your party's main tank dies. If they die and do not reraise, slot aethershield over Honored Sacrifice immediately. Your main job now is to keep the party alive and help mitigate the raidwides form TA/Queen. After the fight is over you may swap back to your Honored Sacrifice (if you still have it)\n- In reclears, you can remove Lost Sacrifice and instead bring more DPS related actions or other support type actions. Reclears tend to have less of a need for Lost Sacrifice as people are generally more comfortable with mechanics.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 55,
+        "mId": 10035,
+        "mName": "DRS - PEBE - Offtank Tank (Blue DPS) - Preload",
+        "mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You pack Aethershield in case your party's main tank dies. If they die and do not reraise, slot aethershield over Honored Sacrifice immediately. Your main job now is to keep the party alive and help mitigate the raidwides form TA/Queen. After the fight is over you may swap back to your Honored Sacrifice (if you still have it)\n- In reclears, you can remove Lost Sacrifice and instead bring more DPS related actions or other support type actions. Reclears tend to have less of a need for Lost Sacrifice as people are generally more comfortable with mechanics.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20721": 1,
+          "20736": 1,
+          "22350": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Offtank Tank (Blue DPS) - Instance",
+        "_mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You pack Aethershield in case your party's main tank dies. If they die and do not reraise, slot aethershield over Honored Sacrifice immediately. Your main job now is to keep the party alive and help mitigate the raidwides form TA/Queen. After the fight is over you may swap back to your Honored Sacrifice (if you still have it)\n- In reclears, you can remove Lost Sacrifice and instead bring more DPS related actions or other support type actions. Reclears tend to have less of a need for Lost Sacrifice as people are generally more comfortable with mechanics.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 98,
+        "mId": 10036,
+        "mName": "DRS - PEBE - Offtank Tank (Blue DPS) - Instance",
+        "mDescription": "PEBE's recommended loadout for Tank.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You pack Aethershield in case your party's main tank dies. If they die and do not reraise, slot aethershield over Honored Sacrifice immediately. Your main job now is to keep the party alive and help mitigate the raidwides form TA/Queen. After the fight is over you may swap back to your Honored Sacrifice (if you still have it)\n- In reclears, you can remove Lost Sacrifice and instead bring more DPS related actions or other support type actions. Reclears tend to have less of a need for Lost Sacrifice as people are generally more comfortable with mechanics.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10000,
+        "mWeight": 98,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20721": 2,
+          "20736": 2,
+          "23911": 2,
+          "22355": 2,
+          "22345": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Healer - Preload",
+        "_mDescription": "PEBE's recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- It is best to check your roster and see what extra actions you should bring along with you need with you (Dispel/Reflect). Steelsting can also be replaced by Spellforge as well as vice versa. Another good pointer is to shove as many arises as you can into your bag once you're done setting up the rest of your bag\n- Chainspell is honestly a better option over Font of Magic for healers. Chainspell can be carried through most of the instance without much trouble with using a fresh single plate. As well as not being MP intensive as Font of Magic can be. Just make sure to be using Lucid on CD!\n- If you are assigned reflect, you can either bring the Lost Reflect action or bring 8-10 Light Curtain items. They do the same thing but the main trade- off is that Light Curtains do not take an action slot. This is for people who are comfortable taking their reflect orbs and can ration them well.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 48,
+        "mId": 10037,
+        "mName": "DRS - PEBE - Healer - Preload",
+        "mDescription": "PEBE's recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- It is best to check your roster and see what extra actions you should bring along with you need with you (Dispel/Reflect). Steelsting can also be replaced by Spellforge as well as vice versa. Another good pointer is to shove as many arises as you can into your bag once you're done setting up the rest of your bag\n- Chainspell is honestly a better option over Font of Magic for healers. Chainspell can be carried through most of the instance without much trouble with using a fresh single plate. As well as not being MP intensive as Font of Magic can be. Just make sure to be using Lucid on CD!\n- If you are assigned reflect, you can either bring the Lost Reflect action or bring 8-10 Light Curtain items. They do the same thing but the main trade- off is that Light Curtains do not take an action slot. This is for people who are comfortable taking their reflect orbs and can ration them well.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 48,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23913": 1,
+          "22354": 1,
+          "20736": 1,
+          "22351": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Healer - Instance",
+        "_mDescription": "PEBE's recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- It is best to check your roster and see what extra actions you should bring along with you need with you (Dispel/Reflect). Steelsting can also be replaced by Spellforge as well as vice versa. Another good pointer is to shove as many arises as you can into your bag once you're done setting up the rest of your bag\n- Chainspell is honestly a better option over Font of Magic for healers. Chainspell can be carried through most of the instance without much trouble with using a fresh single plate. As well as not being MP intensive as Font of Magic can be. Just make sure to be using Lucid on CD!\n- If you are assigned reflect, you can either bring the Lost Reflect action or bring 8-10 Light Curtain items. They do the same thing but the main trade- off is that Light Curtains do not take an action slot. This is for people who are comfortable taking their reflect orbs and can ration them well.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 83,
+        "mId": 10038,
+        "mName": "DRS - PEBE - Healer - Instance",
+        "mDescription": "PEBE's recommended loadout for Healer.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- It is best to check your roster and see what extra actions you should bring along with you need with you (Dispel/Reflect). Steelsting can also be replaced by Spellforge as well as vice versa. Another good pointer is to shove as many arises as you can into your bag once you're done setting up the rest of your bag\n- Chainspell is honestly a better option over Font of Magic for healers. Chainspell can be carried through most of the instance without much trouble with using a fresh single plate. As well as not being MP intensive as Font of Magic can be. Just make sure to be using Lucid on CD!\n- If you are assigned reflect, you can either bring the Lost Reflect action or bring 8-10 Light Curtain items. They do the same thing but the main trade- off is that Light Curtains do not take an action slot. This is for people who are comfortable taking their reflect orbs and can ration them well.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1000,
+        "mWeight": 83,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20704": 1,
+          "22354": 1,
+          "20736": 2,
+          "23911": 2,
+          "23916": 2,
+          "20707": 1,
+          "20706": 1,
+          "20724": 1,
+          "20730": 6
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Melee DPS - Preload",
+        "_mDescription": "PEBE's recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You are the biggest damagers in the whole raid. Combine both Font of Power and Honored Sacrifice to get the biggest gains from these two buttons. This does mean you drift Honored Sacrifice by 30 seconds, but it's still a gain.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 55,
+        "mId": 10039,
+        "mName": "DRS - PEBE - Melee DPS - Preload",
+        "mDescription": "PEBE's recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You are the biggest damagers in the whole raid. Combine both Font of Power and Honored Sacrifice to get the biggest gains from these two buttons. This does mean you drift Honored Sacrifice by 30 seconds, but it's still a gain.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 55,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 1,
+          "20721": 1,
+          "20736": 1,
+          "22348": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Melee DPS - Instance",
+        "_mDescription": "PEBE's recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You are the biggest damagers in the whole raid. Combine both Font of Power and Honored Sacrifice to get the biggest gains from these two buttons. This does mean you drift Honored Sacrifice by 30 seconds, but it's still a gain.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 88,
+        "mId": 10041,
+        "mName": "DRS - PEBE - Melee DPS - Instance",
+        "mDescription": "PEBE's recommended loadout for Melee.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- You are the biggest damagers in the whole raid. Combine both Font of Power and Honored Sacrifice to get the biggest gains from these two buttons. This does mean you drift Honored Sacrifice by 30 seconds, but it's still a gain.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 88,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20717": 2,
+          "20721": 2,
+          "20736": 2,
+          "23911": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Melee Rend armor - Preload",
+        "_mDescription": "PEBE's recommended loadout for Melee with Rend armor role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 38,
+        "mId": 10042,
+        "mName": "DRS - PEBE - Melee Rend armor - Preload",
+        "mDescription": "PEBE's recommended loadout for Melee with Rend armor role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 38,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22353": 1,
+          "20721": 1,
+          "20736": 1,
+          "22348": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Melee Rend armor - Instance",
+        "_mDescription": "PEBE's recommended loadout for Melee with Rend armor role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 62,
+        "mId": 10043,
+        "mName": "DRS - PEBE - Melee Rend armor - Instance",
+        "mDescription": "PEBE's recommended loadout for Melee with Rend armor role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 100,
+        "mWeight": 62,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22353": 3,
+          "20721": 2,
+          "20736": 2,
+          "23911": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Physical Range - Preload",
+        "_mDescription": "PEBE's recommended loadout for Physical range with Dervish role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 53,
+        "mId": 10044,
+        "mName": "DRS - PEBE - Physical Range - Preload",
+        "mDescription": "PEBE's recommended loadout for Physical range with Dervish role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 53,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22349": 1,
+          "20736": 1,
+          "22356": 1,
+          "20717": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Physical Range - Instance",
+        "_mDescription": "PEBE's recommended loadout for Physical range with Dervish role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 92,
+        "mId": 10045,
+        "mName": "DRS - PEBE - Physical Range - Instance",
+        "mDescription": "PEBE's recommended loadout for Physical range with Dervish role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Chat with your co-render about rend order. Ideally one should be reapplied as the other one falls off. This is a huge raid wide damage gain so you do have an important job. Also rend armor is a gap closer, so be careful.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 10,
+        "mWeight": 92,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23911": 2,
+          "20736": 2,
+          "22356": 3,
+          "20717": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Caster Cure IV - Preload",
+        "_mDescription": "PEBE's recommended loadout for Caster with Cure IV role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Font of Magic is a huge gain, but the mana drain is to severe to suggest unless you are being fed mana by a cure 2 Fiendhunter. Or you're a complete masochist who hates having mana.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 45,
+        "mId": 10046,
+        "mName": "DRS - PEBE - Caster Cure IV - Preload",
+        "mDescription": "PEBE's recommended loadout for Caster with Cure IV role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Font of Magic is a huge gain, but the mana drain is to severe to suggest unless you are being fed mana by a cure 2 Fiendhunter. Or you're a complete masochist who hates having mana.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 45,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22347": 1,
+          "20736": 1,
+          "20729": 1,
+          "23913": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Caster Cure IV - Instance",
+        "_mDescription": "PEBE's recommended loadout for Caster with Cure IV role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Font of Magic is a huge gain, but the mana drain is to severe to suggest unless you are being fed mana by a cure 2 Fiendhunter. Or you're a complete masochist who hates having mana.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 53,
+        "mId": 10047,
+        "mName": "DRS - PEBE - Caster Cure IV - Instance",
+        "mDescription": "PEBE's recommended loadout for Caster with Cure IV role.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- Font of Magic is a huge gain, but the mana drain is to severe to suggest unless you are being fed mana by a cure 2 Fiendhunter. Or you're a complete masochist who hates having mana.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 53,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23911": 2,
+          "20736": 2,
+          "20729": 3,
+          "23913": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Caster Flare/FullDPS - Preload",
+        "_mDescription": "PEBE's recommended loadout for Caster.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- This is a mana intensive set up. It is suggested you bring Ether Kits to help keep your supply of mana from running dry to often. Red mages can opt to use Banner of Honored Sacrifice as replacement to Chainspell due to it's Dualcast trait.\n- Lost Flare Star can pretty much use this same set up, but drop Chainspell.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 65,
+        "mId": 10048,
+        "mName": "DRS - PEBE - Caster Flare/FullDPS - Preload",
+        "mDescription": "PEBE's recommended loadout for Caster.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- This is a mana intensive set up. It is suggested you bring Ether Kits to help keep your supply of mana from running dry to often. Red mages can opt to use Banner of Honored Sacrifice as replacement to Chainspell due to it's Dualcast trait.\n- Lost Flare Star can pretty much use this same set up, but drop Chainspell.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 65,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "22347": 1,
+          "20736": 1,
+          "23913": 1,
+          "20715": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "DRS - PEBE - Caster Flare/FullDPS - Instance",
+        "_mDescription": "PEBE's recommended loadout for Caster.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- This is a mana intensive set up. It is suggested you bring Ether Kits to help keep your supply of mana from running dry to often. Red mages can opt to use Banner of Honored Sacrifice as replacement to Chainspell due to it's Dualcast trait.\n- Lost Flare Star can pretty much use this same set up, but drop Chainspell.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "_mGroup": "drs",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 99,
+        "mId": 10049,
+        "mName": "DRS - PEBE - Caster Flare/FullDPS - Instance",
+        "mDescription": "PEBE's recommended loadout for Caster.\n(last update: 03/29/2023)\n---------\nper Lynn:\n\"\n- This is a mana intensive set up. It is suggested you bring Ether Kits to help keep your supply of mana from running dry to often. Red mages can opt to use Banner of Honored Sacrifice as replacement to Chainspell due to it's Dualcast trait.\n- Lost Flare Star can pretty much use this same set up, but drop Chainspell.\n- The rest of your space should be used on more ether kits. You'll be going through mana very quickly and ether kits can help mitigate the moments when lucid dreaming is on cooldown.\n\"",
+        "mGroup": "drs",
+        "mRoleInt": 1,
+        "mWeight": 99,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "23911": 2,
+          "20736": 2,
+          "23913": 1,
+          "20715": 1,
+          "20738": 12
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Tank",
+        "_mDescription": "Dev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 1
+        },
+        "_mWeight": 154,
+        "mId": 10050,
+        "mName": "General use - CEM - Tank",
+        "mDescription": "Dev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 10000,
+        "mWeight": 154,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20717": 1,
+          "20720": 2,
+          "20721": 2,
+          "23921": 2,
+          "20737": 5,
+          "20742": 1,
+          "20751": 1,
+          "20753": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Healer DPS",
+        "_mDescription": "Dev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 155,
+        "mId": 10051,
+        "mName": "General use - CEM - Healer DPS",
+        "mDescription": "Dev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 1000,
+        "mWeight": 155,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20715": 2,
+          "22354": 2,
+          "23913": 1,
+          "20738": 10,
+          "20737": 5,
+          "20741": 1,
+          "20750": 1,
+          "20755": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Healer Support/Others",
+        "_mDescription": "- Supports can also bring [Spellforge] + [Burst] / [Steelsting] + [Rampage] on request of the host or party.\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 2
+        },
+        "_mWeight": 155,
+        "mId": 10052,
+        "mName": "General use - CEM - Healer Support/Others",
+        "mDescription": "- Supports can also bring [Spellforge] + [Burst] / [Steelsting] + [Rampage] on request of the host or party.\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 1000,
+        "mWeight": 155,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20715": 2,
+          "22354": 2,
+          "23913": 1,
+          "20738": 10,
+          "20737": 5,
+          "20741": 1,
+          "20755": 1,
+          "20750": 1
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Caster",
+        "_mDescription": "- [Lost Flare Star] + [Essence of the Skirmisher] (recommended for BLM)\n- [Lost Chainspell] + [Essence of the Ordained]\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            false,
+            true
+          ],
+          "mRoleFlagBit": 256
+        },
+        "_mWeight": 275,
+        "mId": 10053,
+        "mName": "General use - CEM - Caster",
+        "mDescription": "- [Lost Flare Star] + [Essence of the Skirmisher] (recommended for BLM)\n- [Lost Chainspell] + [Essence of the Ordained]\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 1,
+        "mWeight": 275,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20747": 1,
+          "20748": 1,
+          "20738": 10,
+          "20737": 5,
+          "20715": 2,
+          "20720": 2,
+          "20721": 2,
+          "23913": 3,
+          "22352": 3
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Melee",
+        "_mDescription": "- [Essence of the Beast] + [Font of Power]\n- [Rend armor] when requested.\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "mRoleFlagBit": 4
+        },
+        "_mWeight": 124,
+        "mId": 10054,
+        "mName": "General use - CEM - Melee",
+        "mDescription": "- [Essence of the Beast] + [Font of Power]\n- [Rend armor] when requested.\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 100,
+        "mWeight": 124,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20748": 1,
+          "20754": 1,
+          "20737": 5,
+          "22353": 2,
+          "23914": 1,
+          "20717": 1,
+          "20720": 2,
+          "20721": 2
+        }
+      },
+      {
+        "$type": "BozjaBuddy.Data.LoadoutJson, BozjaBuddy",
+        "_mName": "General use - CEM - Phys Range",
+        "_mDescription": "- [Essence of the Beast] + [Lost Assassination]\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "_mGroup": "general",
+        "_mRole": {
+          "$type": "BozjaBuddy.Data.RoleFlag, BozjaBuddy",
+          "mRoleFlagArray": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "mRoleFlagBit": 16
+        },
+        "_mWeight": 129,
+        "mId": 10055,
+        "mName": "General use - CEM - Phys Range",
+        "mDescription": "- [Essence of the Beast] + [Lost Assassination]\n\n--------------------\n\nDev's note: (due to the limitation of the design)\n\n- The quantity digit of an action signifies the group of it belongs to.\n- For each group, you only choose one type of action, and bring one of that type.\n- This excludes [Resistance Reraiser] and kits. Essences are self-explanatory.\n\nAuthor: Luna_Midori5#6518, Kalenal#2674, Rer#6660, Redball#4567, Denabolus#3345, Kroor#9563, jay#1827\n, cinnabun#1500, Mythos#5314, and others.",
+        "mGroup": "general",
+        "mRoleInt": 10,
+        "mWeight": 129,
+        "mActionIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+          "20736": 1,
+          "20754": 1,
+          "20748": 1,
+          "20737": 5,
+          "22356": 1,
+          "20720": 1,
+          "20721": 1,
+          "20717": 2,
+          "23914": 2
+        }
+      }
+    ]
+  },
+  "UserAlarms": null,
+  "_autoLoadout": {
+    "$type": "System.Collections.Generic.Dictionary`2[[BozjaBuddy.Utils.Job, BozjaBuddy],[System.Collections.Generic.List`1[[System.Nullable`1[[System.Int32, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+    "NONE": [
+      null,
+      null
+    ],
+    "GLA": [
+      null,
+      null
+    ],
+    "PGL": [
+      null,
+      null
+    ],
+    "MRD": [
+      null,
+      null
+    ],
+    "LNC": [
+      null,
+      null
+    ],
+    "ARC": [
+      null,
+      null
+    ],
+    "CNJ": [
+      null,
+      null
+    ],
+    "THM": [
+      null,
+      null
+    ],
+    "PLD": [
+      null,
+      null
+    ],
+    "MNK": [
+      null,
+      null
+    ],
+    "WAR": [
+      null,
+      null
+    ],
+    "DRG": [
+      null,
+      null
+    ],
+    "BRD": [
+      null,
+      null
+    ],
+    "WHM": [
+      null,
+      null
+    ],
+    "BLM": [
+      null,
+      null
+    ],
+    "ACN": [
+      null,
+      null
+    ],
+    "SMN": [
+      null,
+      null
+    ],
+    "SCH": [
+      null,
+      null
+    ],
+    "ROG": [
+      null,
+      null
+    ],
+    "NIN": [
+      null,
+      null
+    ],
+    "MCH": [
+      null,
+      null
+    ],
+    "DRK": [
+      null,
+      null
+    ],
+    "AST": [
+      null,
+      null
+    ],
+    "SAM": [
+      null,
+      null
+    ],
+    "RDM": [
+      null,
+      null
+    ],
+    "BLU": [
+      null,
+      null
+    ],
+    "GNB": [
+      null,
+      null
+    ],
+    "DNC": [
+      null,
+      null
+    ],
+    "RPR": [
+      null,
+      null
+    ],
+    "SGE": [
+      null,
+      null
+    ],
+    "ALL": [
+      null,
+      null
+    ]
+  },
+  "Version": 0,
+  "STYLE_ICON_SIZE": 20.0
+}

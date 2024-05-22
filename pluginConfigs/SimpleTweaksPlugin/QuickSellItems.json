@@ -3,5 +3,6 @@
   "Ctrl": false,
   "Alt": false,
   "RetainerSell": true,
+  "SellAtRetainer": false,
   "Version": 1
 }

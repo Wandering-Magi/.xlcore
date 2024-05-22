@@ -13,7 +13,7 @@
       "TrainingEnd": "0001-01-01T00:00:00",
       "MissionId": 0,
       "TrainingId": 0,
-      "NewRecruits": false
+      "NewRecruits": true
     },
     "Map": "0001-01-01T00:00:00",
     "MiniCactpot": {
@@ -21,7 +21,7 @@
       "Tickets": 0
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-01-07T02:40:26.7782513Z",
+      "LastUpdate": "2024-05-16T07:39:58.8127597Z",
       "Tickets": [
         65535,
         65535,

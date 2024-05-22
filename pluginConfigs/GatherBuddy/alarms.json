@@ -25,5 +25,169 @@
       }
     ],
     "Enabled": false
+  },
+  {
+    "Name": "White Scripts",
+    "Description": "",
+    "Alarms": [
+      {
+        "Name": "",
+        "Id": 36306,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36295,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36296,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36305,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36303,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36304,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36307,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36294,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36297,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      }
+    ],
+    "Enabled": false
+  },
+  {
+    "Name": "Purp Scripts",
+    "Description": "",
+    "Alarms": [
+      {
+        "Name": "",
+        "Id": 36308,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36298,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36300,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36309,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36310,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      },
+      {
+        "Name": "",
+        "Id": 36299,
+        "SecondOffset": 0,
+        "Type": "Gatherable",
+        "PreferLocationId": 0,
+        "SoundId": 0,
+        "Enabled": true,
+        "PrintMessage": true
+      }
+    ],
+    "Enabled": false
   }
 ]

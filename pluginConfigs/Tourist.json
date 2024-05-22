@@ -1,8 +1,8 @@
 {
   "$type": "Tourist.Configuration, Tourist",
   "Version": 1,
-  "ShowFinished": false,
-  "ShowUnavailable": true,
+  "ShowFinished": true,
+  "ShowUnavailable": false,
   "ShowArrVistas": true,
   "OnlyShowCurrentZone": false,
   "ShowTimeUntilAvailable": true,

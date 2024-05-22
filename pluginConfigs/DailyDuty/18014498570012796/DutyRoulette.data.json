@@ -2,17 +2,17 @@
   "TaskData": [
     {
       "RowId": 1,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 2,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 3,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "RowId": 15,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -56,8 +56,8 @@
       "CurrentCount": 0
     }
   ],
-  "ExpertTomestones": 0,
-  "ExpertTomestoneCap": 450,
+  "ExpertTomestones": 35,
+  "ExpertTomestoneCap": 900,
   "AtTomeCap": false,
-  "NextReset": "2024-01-10T15:00:00Z"
+  "NextReset": "2024-05-22T15:00:00Z"
 }

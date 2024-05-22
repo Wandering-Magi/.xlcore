@@ -28,11 +28,5 @@
   "UseCustomResetMessage": false,
   "CustomResetMessage": "",
   "Suppressed": false,
-  "TaskConfig": [
-    {
-      "RowId": 942,
-      "Enabled": false,
-      "TargetCount": 0
-    }
-  ]
+  "TaskConfig": []
 }

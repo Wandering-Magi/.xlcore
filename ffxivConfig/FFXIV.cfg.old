@@ -163,14 +163,14 @@ MouseAutoFocus	0
 FPSDownAFK	0
 IdlingCameraAFK	0
 MouseSpeed	0.500000
-CameraZoom	14825
+CameraZoom	18606
 DynamicRezoType	0
 
 <Move Operation>
 Is3DAudio	0
 BattleEffect	1
 BGEffect	1
-ColorThemeType	0
+ColorThemeType	3
 SystemMouseOperationSoftOn	0
 SystemMouseOperationTrajectory	1
 SystemMouseOperationCursorScaling	0
@@ -184,9 +184,9 @@ CutsceneMovieCaption	4294967295
 CutsceneMovieOpening	1
 
 <SoundPlay Settings>
-SoundMaster	15
-SoundBgm	53
-SoundSe	28
+SoundMaster	30
+SoundBgm	50
+SoundSe	30
 SoundVoice	100
 SoundEnv	44
 SoundSystem	100

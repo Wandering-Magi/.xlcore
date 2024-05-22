@@ -1,0 +1,44 @@
+{
+  "$type": "MiniMappingway.Configuration, MiniMappingway",
+  "Version": 0,
+  "SourceConfigs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[MiniMappingway.Model.SourceData, MiniMappingway]], System.Private.CoreLib",
+    "Friends": {
+      "$type": "MiniMappingway.Model.SourceData, MiniMappingway",
+      "Enabled": true,
+      "Color": 4279077108,
+      "BorderDarkeningAmount": 0.7,
+      "Priority": 2,
+      "ShowBorder": true,
+      "CircleSize": 6,
+      "BorderValid": true,
+      "BorderRadius": 2,
+      "AutoBorderColour": 4278804395
+    },
+    "FC Members": {
+      "$type": "MiniMappingway.Model.SourceData, MiniMappingway",
+      "Enabled": true,
+      "Color": 4278190335,
+      "BorderDarkeningAmount": 0.7,
+      "Priority": 1,
+      "ShowBorder": true,
+      "CircleSize": 6,
+      "BorderValid": true,
+      "BorderRadius": 2,
+      "AutoBorderColour": 4278190259
+    },
+    "Everyone": {
+      "$type": "MiniMappingway.Model.SourceData, MiniMappingway",
+      "Enabled": false,
+      "Color": 4289966848,
+      "BorderDarkeningAmount": 0.7,
+      "Priority": 0,
+      "ShowBorder": true,
+      "CircleSize": 6,
+      "BorderValid": true,
+      "BorderRadius": 2,
+      "AutoBorderColour": 4286414080
+    }
+  },
+  "Enabled": true
+}

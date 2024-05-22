@@ -568,6 +568,14 @@
         "StartMinute": 960,
         "EndMinute": 1200,
         "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 38937,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 240,
+        "Type": "Gatherable"
       }
     ]
   },
@@ -953,6 +961,263 @@
         "StartMinute": 0,
         "EndMinute": 0,
         "Type": "Fish"
+      }
+    ]
+  },
+  {
+    "Name": "Purp Scripts",
+    "Description": "",
+    "Nodes": [
+      {
+        "Annotation": "",
+        "ItemId": 36308,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 120,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36298,
+        "PreferLocation": 0,
+        "StartMinute": 120,
+        "EndMinute": 240,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36300,
+        "PreferLocation": 0,
+        "StartMinute": 240,
+        "EndMinute": 360,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36309,
+        "PreferLocation": 0,
+        "StartMinute": 360,
+        "EndMinute": 480,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36310,
+        "PreferLocation": 0,
+        "StartMinute": 480,
+        "EndMinute": 600,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36299,
+        "PreferLocation": 0,
+        "StartMinute": 600,
+        "EndMinute": 720,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36308,
+        "PreferLocation": 0,
+        "StartMinute": 720,
+        "EndMinute": 840,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36298,
+        "PreferLocation": 0,
+        "StartMinute": 840,
+        "EndMinute": 960,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36300,
+        "PreferLocation": 0,
+        "StartMinute": 960,
+        "EndMinute": 1080,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36309,
+        "PreferLocation": 0,
+        "StartMinute": 1080,
+        "EndMinute": 1200,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36310,
+        "PreferLocation": 0,
+        "StartMinute": 1200,
+        "EndMinute": 1320,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36299,
+        "PreferLocation": 0,
+        "StartMinute": 1320,
+        "EndMinute": 0,
+        "Type": "Gatherable"
+      }
+    ]
+  },
+  {
+    "Name": "Scripts",
+    "Description": "",
+    "Nodes": []
+  },
+  {
+    "Name": "White Scripts",
+    "Description": "",
+    "Nodes": [
+      {
+        "Annotation": "",
+        "ItemId": 36306,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 120,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36295,
+        "PreferLocation": 0,
+        "StartMinute": 0,
+        "EndMinute": 120,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36296,
+        "PreferLocation": 0,
+        "StartMinute": 120,
+        "EndMinute": 240,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36305,
+        "PreferLocation": 0,
+        "StartMinute": 120,
+        "EndMinute": 240,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36303,
+        "PreferLocation": 0,
+        "StartMinute": 120,
+        "EndMinute": 240,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36304,
+        "PreferLocation": 0,
+        "StartMinute": 240,
+        "EndMinute": 360,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36307,
+        "PreferLocation": 0,
+        "StartMinute": 360,
+        "EndMinute": 480,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36294,
+        "PreferLocation": 0,
+        "StartMinute": 360,
+        "EndMinute": 480,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36297,
+        "PreferLocation": 0,
+        "StartMinute": 600,
+        "EndMinute": 720,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36295,
+        "PreferLocation": 0,
+        "StartMinute": 720,
+        "EndMinute": 840,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36306,
+        "PreferLocation": 0,
+        "StartMinute": 720,
+        "EndMinute": 840,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36303,
+        "PreferLocation": 0,
+        "StartMinute": 840,
+        "EndMinute": 960,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36296,
+        "PreferLocation": 0,
+        "StartMinute": 840,
+        "EndMinute": 960,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36305,
+        "PreferLocation": 0,
+        "StartMinute": 840,
+        "EndMinute": 960,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36304,
+        "PreferLocation": 0,
+        "StartMinute": 960,
+        "EndMinute": 1080,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36307,
+        "PreferLocation": 0,
+        "StartMinute": 1080,
+        "EndMinute": 1200,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36294,
+        "PreferLocation": 0,
+        "StartMinute": 1080,
+        "EndMinute": 1200,
+        "Type": "Gatherable"
+      },
+      {
+        "Annotation": "",
+        "ItemId": 36297,
+        "PreferLocation": 0,
+        "StartMinute": 1320,
+        "EndMinute": 0,
+        "Type": "Gatherable"
       }
     ]
   }

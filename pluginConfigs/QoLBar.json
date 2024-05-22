@@ -4085,39 +4085,6 @@
             },
             {
               "$type": "QoLBar.ShCfg, QoLBar",
-              "n": "::n10002000",
-              "t": 2,
-              "c": "",
-              "k": 0,
-              "kP": false,
-              "sL": null,
-              "m": 0,
-              "cl": 1694498815,
-              "clA": 0,
-              "iZ": 8.0,
-              "iO": [
-                -0.029,
-                0.082
-              ],
-              "iR": 0.0,
-              "cdA": 0,
-              "cdS": 0,
-              "cW": 140,
-              "cSO": false,
-              "cC": 1,
-              "cSp": [
-                8,
-                4
-              ],
-              "cS": 1.0,
-              "cF": 1.0,
-              "cNB": false,
-              "cH": false,
-              "cHC": false,
-              "_i": 0
-            },
-            {
-              "$type": "QoLBar.ShCfg, QoLBar",
               "n": "::n76310",
               "t": 2,
               "c": "",
@@ -4151,14 +4118,47 @@
             },
             {
               "$type": "QoLBar.ShCfg, QoLBar",
-              "n": "::n60887",
-              "t": 2,
-              "c": "",
+              "n": "::n60887##Old Sharlayan",
+              "t": 0,
+              "c": "/tp Old Shar",
               "k": 0,
               "kP": false,
               "sL": null,
               "m": 0,
-              "cl": 1694498815,
+              "cl": 4294967295,
+              "clA": 0,
+              "iZ": 1.0,
+              "iO": [
+                0.0,
+                0.0
+              ],
+              "iR": 0.0,
+              "cdA": 0,
+              "cdS": 0,
+              "cW": 140,
+              "cSO": false,
+              "cC": 1,
+              "cSp": [
+                8,
+                4
+              ],
+              "cS": 1.0,
+              "cF": 1.0,
+              "cNB": false,
+              "cH": false,
+              "cHC": false,
+              "_i": 0
+            },
+            {
+              "$type": "QoLBar.ShCfg, QoLBar",
+              "n": "::n60760##Home",
+              "t": 0,
+              "c": "/tp estate",
+              "k": 0,
+              "kP": false,
+              "sL": null,
+              "m": 0,
+              "cl": 4294967295,
               "clA": 0,
               "iZ": 1.0,
               "iO": [
@@ -4316,19 +4316,19 @@
             },
             {
               "$type": "QoLBar.ShCfg, QoLBar",
-              "n": "::n60760##Home",
+              "n": "::n10002000##Radz-at-han",
               "t": 0,
-              "c": "/tp estate",
+              "c": "/tp Radz",
               "k": 0,
               "kP": false,
               "sL": null,
               "m": 0,
               "cl": 4294967295,
               "clA": 0,
-              "iZ": 1.0,
+              "iZ": 8.0,
               "iO": [
-                0.0,
-                0.0
+                -0.029,
+                0.082
               ],
               "iR": 0.0,
               "cdA": 0,
@@ -4819,14 +4819,14 @@
                 },
                 {
                   "$type": "QoLBar.ShCfg, QoLBar",
-                  "n": "::n65079",
-                  "t": 2,
-                  "c": "",
+                  "n": "::n65079##Dwarves",
+                  "t": 0,
+                  "c": "/tp Ostall",
                   "k": 0,
                   "kP": false,
                   "sL": null,
                   "m": 0,
-                  "cl": 1694498815,
+                  "cl": 4294967295,
                   "clA": 0,
                   "iZ": 1.0,
                   "iO": [
@@ -4852,14 +4852,14 @@
                 },
                 {
                   "$type": "QoLBar.ShCfg, QoLBar",
-                  "n": "::n65092",
-                  "t": 2,
-                  "c": "",
+                  "n": "::n65092##Hippo Riders",
+                  "t": 0,
+                  "c": "/tp The Great Work",
                   "k": 0,
                   "kP": false,
                   "sL": null,
                   "m": 0,
-                  "cl": 1694498815,
+                  "cl": 4244635647,
                   "clA": 0,
                   "iZ": 1.0,
                   "iO": [
@@ -4885,14 +4885,14 @@
                 },
                 {
                   "$type": "QoLBar.ShCfg, QoLBar",
-                  "n": "::n65093",
-                  "t": 2,
-                  "c": "",
+                  "n": "::n65093##Omicron",
+                  "t": 0,
+                  "c": "/tp Base",
                   "k": 0,
                   "kP": false,
                   "sL": null,
                   "m": 0,
-                  "cl": 1694498815,
+                  "cl": 4294967295,
                   "clA": 0,
                   "iZ": 1.0,
                   "iO": [
@@ -4918,14 +4918,14 @@
                 },
                 {
                   "$type": "QoLBar.ShCfg, QoLBar",
-                  "n": "::n65101",
-                  "t": 2,
-                  "c": "",
+                  "n": "::n65101##Bestways Burrow",
+                  "t": 0,
+                  "c": "/tp Bestways ",
                   "k": 0,
                   "kP": false,
                   "sL": null,
                   "m": 0,
-                  "cl": 1694498815,
+                  "cl": 4294967295,
                   "clA": 0,
                   "iZ": 1.0,
                   "iO": [
@@ -5512,8 +5512,8 @@
       "e": false,
       "cT": false,
       "p": [
-        0.27864584,
-        0.9592593
+        0.65351564,
+        0.96875
       ],
       "l": false,
       "co": 0,
@@ -5563,7 +5563,7 @@
           "cNB": false,
           "cH": false,
           "cHC": false,
-          "_i": 9
+          "_i": 11
         },
         {
           "$type": "QoLBar.ShCfg, QoLBar",
@@ -6268,8 +6268,8 @@
       "e": false,
       "cT": false,
       "p": [
-        0.19674477,
-        -0.06516171
+        0.4346359,
+        -0.029976282
       ],
       "l": false,
       "co": 5,

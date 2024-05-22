@@ -3,5 +3,6 @@
   "GrandCompanySealValue": false,
   "Gearsets": true,
   "NoSellList": false,
+  "AdditionalData": false,
   "Version": 1
 }

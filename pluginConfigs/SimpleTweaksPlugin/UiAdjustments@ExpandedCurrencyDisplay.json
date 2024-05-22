@@ -2,7 +2,7 @@
   "DisplayDirection": 2,
   "Currencies": [
     {
-      "Enabled": true,
+      "Enabled": false,
       "ItemId": 27,
       "IconId": 65024,
       "HqItem": false,
@@ -16,12 +16,68 @@
       }
     },
     {
-      "Enabled": true,
+      "Enabled": false,
       "ItemId": 10307,
       "IconId": 65034,
       "HqItem": false,
       "CollectibleItem": false,
       "Name": "Centurio Seal",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "Enabled": false,
+      "ItemId": 26533,
+      "IconId": 65068,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Sack of Nuts",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "Enabled": true,
+      "ItemId": 28,
+      "IconId": 65023,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Allagan Tomestone of Poetics",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "Enabled": true,
+      "ItemId": 44,
+      "IconId": 65094,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Allagan Tomestone of Causality",
+      "HorizontalSpacing": 0.0,
+      "UseCustomPosition": false,
+      "CustomPosition": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "Enabled": true,
+      "ItemId": 45,
+      "IconId": 65103,
+      "HqItem": false,
+      "CollectibleItem": false,
+      "Name": "Allagan Tomestone of Comedy",
       "HorizontalSpacing": 0.0,
       "UseCustomPosition": false,
       "CustomPosition": {

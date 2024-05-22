@@ -6,6 +6,7 @@
     "SavedValues": {
       "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
     },
+    "Undocked": [],
     "SelectedAtkUnitBase": 0,
     "AtkUnitBaseSearch": ""
   },
@@ -58,13 +59,14 @@
     "UiAdjustments@FadeUnavailableActions"
   ],
   "HiddenTweaks": [],
-  "CustomProviders": [],
+  "CustomTweakProviders": [],
   "BlacklistedTweaks": [
     "UiAdjustments@ExtendedDesynthesisWindow",
     "UiAdjustments@ActionPressMirroring",
     "UiAdjustments@ControlHintMirroring",
     "UiAdjustments@StopCraftingButton::2",
-    "UiAdjustments@FadeUnavailableActions"
+    "UiAdjustments@FadeUnavailableActions",
+    "UiAdjustments@LockWindowPosition"
   ],
   "HiddenCategories": [],
   "CustomizedCommands": {
@@ -84,6 +86,7 @@
   "ShowEnabledTweaksTab": true,
   "ShowOtherTweaksTab": true,
   "NoCallerInLog": false,
+  "UseFuzzyTweakSearch": true,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",
@@ -91,5 +94,7 @@
   "LastSeenChangelog": "1.8.5.0",
   "AutoOpenChangelog": false,
   "DisableChangelogNotification": false,
+  "MetricsIdentifier": null,
+  "FestiveDecorationType": -2,
   "Version": 3
 }

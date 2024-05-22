@@ -39,7 +39,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 3,
-          "A": 3,
+          "A": 4,
           "S": 3,
           "SSMinion": 3,
           "SS": 3
@@ -48,7 +48,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 1,
+          "A": 4,
           "S": 1,
           "SSMinion": 1,
           "SS": 1
@@ -57,7 +57,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 1,
+          "A": 4,
           "S": 1,
           "SSMinion": 1,
           "SS": 1
@@ -82,8 +82,7 @@
       "$type": "Sonar.Config.FateConfig, Sonar",
       "DefaultJurisdiction": 1,
       "Jurisdiction": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
-        "543": 4
+        "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib"
       },
       "Contribute": true,
       "TrackAll": true
@@ -196,13 +195,15 @@
     430,
     480,
     493,
-    543,
+    632,
     571,
     587,
     589,
     610,
     633,
-    540
+    540,
+    642,
+    499
   ],
   "PlaySoundFates": false,
   "SoundFileFates": "",
