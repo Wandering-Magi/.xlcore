@@ -58,7 +58,7 @@ EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	0
 EgiMirageTypeIfrit	0
 BahamutSize	2
-PetMirageTypeCarbuncleSupport	0
+PetMirageTypeCarbuncleSupport	5
 PhoenixSize	2
 GarudaSize	2
 TitanSize	2
@@ -383,14 +383,14 @@ LogColorRoleTank	4278223103
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	2
+ChatType	0
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
 ColorTell	16759008
 ColorParty	6743807
 ColorAlliance	16744448
-ColorLS1	16711680
+ColorLS1	4293025936
 ColorLS2	4294928384
 ColorLS3	13959039
 ColorLS4	13959039
@@ -468,7 +468,7 @@ PartyListSortTypeDps	0
 PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
-ContentsFinderListSortType	1
+ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
@@ -495,7 +495,7 @@ GPoseMotionFilterAction	1
 LsListSortPriority	1
 FriendListSortPriority	1
 FriendListFilterType	0
-FriendListSortType	1
+FriendListSortType	4
 LetterListFilterType	0
 LetterListSortType	0
 ContentsReplayEnable	0

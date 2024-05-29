@@ -27,7 +27,7 @@
     },
     {
       "RowId": 6,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "RowId": 21,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -117,12 +117,12 @@
     },
     {
       "RowId": 26,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 27,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -137,12 +137,12 @@
     },
     {
       "RowId": 30,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 31,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -352,14 +352,14 @@
     },
     {
       "RowId": 74,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
       "RowId": 75,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2024-05-28T08:00:00Z"
+  "NextReset": "2024-06-04T08:00:00Z"
 }

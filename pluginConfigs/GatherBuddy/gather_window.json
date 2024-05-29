@@ -4,7 +4,7 @@
     "ItemTypes": [],
     "Name": "WIP",
     "Description": "",
-    "Enabled": false
+    "Enabled": true
   },
   {
     "ItemIds": [
@@ -89,6 +89,31 @@
     ],
     "Name": "Sand",
     "Description": "Contains the nodes for the group of 90 aethersands.",
+    "Enabled": false
+  },
+  {
+    "ItemIds": [
+      39237,
+      39909,
+      37691,
+      41416,
+      39906,
+      41413,
+      37694,
+      39234
+    ],
+    "ItemTypes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Name": "Prime > Sublime",
+    "Description": "",
     "Enabled": false
   }
 ]
