@@ -435,6 +435,18 @@
       "NumWins": 4,
       "NumDraws": 0,
       "NumLosses": 0
+    },
+    "2293884": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "385": 6,
+        "382": 1
+      },
+      "NumCoins": 1216,
+      "NumWins": 19,
+      "NumDraws": 0,
+      "NumLosses": 0
     }
   }
 }

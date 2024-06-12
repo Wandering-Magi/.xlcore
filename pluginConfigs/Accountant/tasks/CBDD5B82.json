@@ -17,11 +17,11 @@
     },
     "Map": "2024-05-26T00:24:52.2454194Z",
     "MiniCactpot": {
-      "LastUpdate": "2024-06-03T07:17:27.008198Z",
+      "LastUpdate": "2024-06-12T07:44:43.8387029Z",
       "Tickets": 3
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-06-03T07:18:35.4240086Z",
+      "LastUpdate": "2024-06-12T07:37:02.0383838Z",
       "Tickets": [
         124,
         215,
@@ -29,8 +29,8 @@
       ]
     },
     "Delivery": {
-      "Allowances": 12,
-      "LastUpdate": "2024-06-04T08:00:03.0668122Z"
+      "Allowances": 0,
+      "LastUpdate": "2024-06-12T06:58:32.0872554Z"
     },
     "Tribe": {
       "Allowances": 12,

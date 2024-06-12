@@ -22,9 +22,9 @@
     },
     {
       "Name": "Gozen",
-      "Venture": "2022-09-03T12:06:05Z",
+      "Venture": "0001-01-01T00:00:00",
       "RetainerId": 33777097240256163,
-      "VentureId": 51,
+      "VentureId": 0,
       "Available": true,
       "JobId": 34
     },
