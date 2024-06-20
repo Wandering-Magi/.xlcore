@@ -56,8 +56,8 @@
       "CurrentCount": 0
     }
   ],
-  "ExpertTomestones": 300,
+  "ExpertTomestones": 0,
   "ExpertTomestoneCap": 900,
   "AtTomeCap": false,
-  "NextReset": "2024-06-12T15:00:00Z"
+  "NextReset": "2024-06-19T15:00:00Z"
 }

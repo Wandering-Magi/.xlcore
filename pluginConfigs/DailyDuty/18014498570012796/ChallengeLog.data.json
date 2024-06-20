@@ -27,7 +27,7 @@
     },
     {
       "RowId": 6,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "RowId": 18,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "RowId": 71,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "RowId": 74,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -361,5 +361,5 @@
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2024-06-18T08:00:00Z"
+  "NextReset": "2024-06-25T08:00:00Z"
 }
