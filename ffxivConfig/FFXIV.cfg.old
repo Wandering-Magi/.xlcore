@@ -20,9 +20,9 @@ DktSessionId
 MainAdapter	
 ScreenLeft	316
 ScreenTop	166
-ScreenWidth	1600
-ScreenHeight	900
-ScreenMode	2
+ScreenWidth	1920
+ScreenHeight	1080
+ScreenMode	0
 FullScreenWidth	1280
 FullScreenHeight	720
 Refreshrate	60
@@ -163,7 +163,7 @@ MouseAutoFocus	0
 FPSDownAFK	0
 IdlingCameraAFK	0
 MouseSpeed	0.500000
-CameraZoom	20000
+CameraZoom	9282
 DynamicRezoType	0
 
 <Move Operation>
@@ -185,7 +185,7 @@ CutsceneMovieOpening	1
 
 <SoundPlay Settings>
 SoundMaster	30
-SoundBgm	25
+SoundBgm	100
 SoundSe	21
 SoundVoice	35
 SoundEnv	44
