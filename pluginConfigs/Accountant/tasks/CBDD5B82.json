@@ -15,13 +15,13 @@
       "TrainingId": 0,
       "NewRecruits": true
     },
-    "Map": "2024-06-21T22:38:08.8537897Z",
+    "Map": "0001-01-01T00:00:00",
     "MiniCactpot": {
-      "LastUpdate": "2024-06-25T17:48:30.7596772Z",
+      "LastUpdate": "2024-07-08T02:03:32.0447146Z",
       "Tickets": 3
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-06-24T00:05:51.0734851Z",
+      "LastUpdate": "2024-07-08T02:04:42.3194415Z",
       "Tickets": [
         124,
         215,
@@ -29,8 +29,8 @@
       ]
     },
     "Delivery": {
-      "Allowances": 12,
-      "LastUpdate": "2024-06-25T17:47:52.6903815Z"
+      "Allowances": 0,
+      "LastUpdate": "2024-07-06T00:43:21.487181Z"
     },
     "Tribe": {
       "Allowances": 12,

@@ -1,10 +1,14 @@
 [
   {
-    "ItemIds": [],
-    "ItemTypes": [],
+    "ItemIds": [
+      27836
+    ],
+    "ItemTypes": [
+      1
+    ],
     "Name": "WIP",
     "Description": "",
-    "Enabled": true
+    "Enabled": false
   },
   {
     "ItemIds": [
