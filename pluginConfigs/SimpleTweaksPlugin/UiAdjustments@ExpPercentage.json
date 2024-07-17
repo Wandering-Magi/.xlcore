@@ -3,5 +3,7 @@
   "PercentageOnly": false,
   "ShowRestedExperience": true,
   "NoExpPercentage": false,
+  "MoveExp": false,
+  "MoveChainBonus": false,
   "Version": 1
 }
