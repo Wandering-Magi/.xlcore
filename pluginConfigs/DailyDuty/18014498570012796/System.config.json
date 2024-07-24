@@ -1,5 +1,8 @@
 {
   "HideDisabledModules": false,
+  "Version": 0,
   "CharacterName": "Hanzo Katarine",
-  "CharacterWorld": "Sargatanas"
+  "CharacterWorld": "Sargatanas",
+  "ContentId": 0,
+  "LodestoneId": null
 }

@@ -5,8 +5,8 @@
   },
   "Item2": {
     "Leves": {
-      "Allowances": 100,
-      "LastUpdate": "2024-05-20T00:00:00Z"
+      "Allowances": 0,
+      "LastUpdate": "0001-01-01T00:00:00"
     },
     "Squadron": {
       "MissionEnd": "0001-01-01T00:00:00",
@@ -17,11 +17,11 @@
     },
     "Map": "0001-01-01T00:00:00",
     "MiniCactpot": {
-      "LastUpdate": "2024-07-15T07:58:48.1553209Z",
-      "Tickets": 0
+      "LastUpdate": "2024-07-24T03:24:41.5511909Z",
+      "Tickets": 3
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-07-14T08:50:57.1469212Z",
+      "LastUpdate": "2024-07-24T03:25:37.6303248Z",
       "Tickets": [
         124,
         215,
@@ -30,11 +30,11 @@
     },
     "Delivery": {
       "Allowances": 12,
-      "LastUpdate": "2024-07-17T02:53:19.6633642Z"
+      "LastUpdate": "2024-07-23T07:59:54.369388Z"
     },
     "Tribe": {
       "Allowances": 12,
-      "LastUpdate": "2024-07-17T02:53:19.7542624Z"
+      "LastUpdate": "2024-07-22T03:48:51.9015417Z"
     }
   }
 }

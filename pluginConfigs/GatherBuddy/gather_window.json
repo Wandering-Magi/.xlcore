@@ -1,81 +1,10 @@
 [
   {
-    "ItemIds": [
-      27836
-    ],
-    "ItemTypes": [
-      1
-    ],
+    "ItemIds": [],
+    "ItemTypes": [],
     "Name": "WIP",
     "Description": "",
-    "Enabled": false
-  },
-  {
-    "ItemIds": [
-      36285,
-      36287,
-      36288,
-      36286,
-      38937
-    ],
-    "ItemTypes": [
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    "Name": "90sand",
-    "Description": "Contains the nodes for the group of 90 aethersands.",
-    "Enabled": false
-  },
-  {
-    "ItemIds": [
-      36306,
-      36295,
-      36296,
-      36305,
-      36303,
-      36304,
-      36307,
-      36294,
-      36297
-    ],
-    "ItemTypes": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    "Name": "White Scripts",
-    "Description": "",
-    "Enabled": false
-  },
-  {
-    "ItemIds": [
-      36308,
-      36298,
-      36300,
-      36309,
-      36310,
-      36299
-    ],
-    "ItemTypes": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    "Name": "Purp Scripts",
-    "Description": "",
-    "Enabled": false
+    "Enabled": true
   },
   {
     "ItemIds": [],
@@ -86,25 +15,33 @@
   },
   {
     "ItemIds": [
-      38937
+      43922,
+      43923,
+      43921,
+      43930,
+      43929,
+      43928
     ],
     "ItemTypes": [
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ],
-    "Name": "Sand",
-    "Description": "Contains the nodes for the group of 90 aethersands.",
+    "Name": "Orange Scripts",
+    "Description": "",
     "Enabled": false
   },
   {
     "ItemIds": [
-      39237,
-      39909,
-      37691,
-      41416,
-      39906,
-      41413,
-      37694,
-      39234
+      44233,
+      43920,
+      43919,
+      44234,
+      43927,
+      43926
     ],
     "ItemTypes": [
       1,
@@ -112,11 +49,9 @@
       1,
       1,
       1,
-      1,
-      1,
       1
     ],
-    "Name": "Prime > Sublime",
+    "Name": "Purple Scripts",
     "Description": "",
     "Enabled": false
   }

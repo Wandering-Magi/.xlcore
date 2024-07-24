@@ -1,9 +1,14 @@
 {
   "$type": "HuntBuddy.Configuration, HuntBuddy",
+  "EnableXivEspIntegration": false,
+  "AutoSetEspSearchOnNextHuntCommand": false,
+  "IncludeAreaOnMap": true,
+  "LockWindowPositions": false,
   "ShowLocalHunts": true,
   "ShowLocalHuntIcons": false,
   "HideLocalHuntBackground": true,
   "HideCompletedHunts": true,
+  "SuppressEliteMarkLocationWarning": true,
   "IconScale": 1.0,
   "IconBackgroundColour": {
     "$type": "System.Numerics.Vector4, System.Private.CoreLib",

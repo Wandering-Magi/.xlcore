@@ -38,9 +38,9 @@
     },
     {
       "Name": "Daisuke-",
-      "Venture": "2022-09-04T05:26:02Z",
+      "Venture": "0001-01-01T00:00:00",
       "RetainerId": 33777097241056121,
-      "VentureId": 881,
+      "VentureId": 0,
       "Available": true,
       "JobId": 39
     },

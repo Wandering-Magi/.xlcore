@@ -13,7 +13,7 @@
   "AetherytePreference": 1,
   "ShowItems": 466943,
   "ShowFish": 65406,
-  "HideFishPatch": 0,
+  "HideFishPatch": 1073741823,
   "LocationFilter": 63,
   "OpenOnStart": false,
   "MainWindowLockPosition": false,

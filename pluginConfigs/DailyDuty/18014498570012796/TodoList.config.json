@@ -1,0 +1,177 @@
+{
+  "Enabled": false,
+  "CategoryConfigs": [
+    {
+      "ModuleType": 0,
+      "LayoutAnchor": 0,
+      "Enabled": true,
+      "ShowHeader": true,
+      "HeaderItalic": false,
+      "ModuleItalic": false,
+      "Edge": true,
+      "Glare": false,
+      "HeaderLabel": "Daily Tasks",
+      "ModuleFontSize": 12,
+      "HeaderFontSize": 24,
+      "UseCustomLabel": false,
+      "CustomLabel": "",
+      "CategoryMargin": {
+        "X": 5,
+        "Y": 5,
+        "Z": 5,
+        "W": 5
+      },
+      "ModuleMargin": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextOutline": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      },
+      "ModuleTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "ModuleOutlineColor": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      }
+    },
+    {
+      "ModuleType": 1,
+      "LayoutAnchor": 0,
+      "Enabled": true,
+      "ShowHeader": true,
+      "HeaderItalic": false,
+      "ModuleItalic": false,
+      "Edge": true,
+      "Glare": false,
+      "HeaderLabel": "Weekly Tasks",
+      "ModuleFontSize": 12,
+      "HeaderFontSize": 24,
+      "UseCustomLabel": false,
+      "CustomLabel": "",
+      "CategoryMargin": {
+        "X": 5,
+        "Y": 5,
+        "Z": 5,
+        "W": 5
+      },
+      "ModuleMargin": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextOutline": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      },
+      "ModuleTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "ModuleOutlineColor": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      }
+    },
+    {
+      "ModuleType": 2,
+      "LayoutAnchor": 0,
+      "Enabled": true,
+      "ShowHeader": true,
+      "HeaderItalic": false,
+      "ModuleItalic": false,
+      "Edge": true,
+      "Glare": false,
+      "HeaderLabel": "Special Tasks",
+      "ModuleFontSize": 12,
+      "HeaderFontSize": 24,
+      "UseCustomLabel": false,
+      "CustomLabel": "",
+      "CategoryMargin": {
+        "X": 5,
+        "Y": 5,
+        "Z": 5,
+        "W": 5
+      },
+      "ModuleMargin": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "HeaderTextOutline": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      },
+      "ModuleTextColor": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "W": 1
+      },
+      "ModuleOutlineColor": {
+        "X": 1,
+        "Y": 0.64705884,
+        "Z": 0,
+        "W": 1
+      }
+    }
+  ],
+  "Anchor": 0,
+  "Position": {
+    "X": 512,
+    "Y": 360
+  },
+  "Size": {
+    "X": 600,
+    "Y": 400
+  },
+  "SingleLine": true,
+  "ShowListBackground": true,
+  "HideDuringQuests": true,
+  "HideInDuties": true,
+  "ListBackgroundColor": {
+    "X": 0,
+    "Y": 1,
+    "Z": 1,
+    "W": 0.4
+  }
+}

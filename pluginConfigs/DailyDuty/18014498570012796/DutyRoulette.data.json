@@ -1,4 +1,7 @@
 {
+  "ExpertTomestones": 0,
+  "ExpertTomestoneCap": 450,
+  "AtTomeCap": false,
   "TaskData": [
     {
       "RowId": 1,
@@ -7,7 +10,7 @@
     },
     {
       "RowId": 2,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -17,7 +20,7 @@
     },
     {
       "RowId": 4,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -37,7 +40,7 @@
     },
     {
       "RowId": 8,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -52,12 +55,9 @@
     },
     {
       "RowId": 17,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     }
   ],
-  "ExpertTomestones": 216,
-  "ExpertTomestoneCap": 900,
-  "AtTomeCap": false,
-  "NextReset": "2024-06-26T15:00:00Z"
+  "NextReset": "2024-07-24T15:00:00Z"
 }

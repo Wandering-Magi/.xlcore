@@ -1,7 +1,8 @@
 {
-  "NextReset": "2024-07-02T08:00:00Z",
   "MissionCompleted": false,
   "MissionStarted": false,
   "MissionCompleteTime": "2023-08-04T02:48:44",
-  "TimeUntilMissionComplete": "00:00:00"
+  "TimeUntilMissionComplete": "00:00:00",
+  "TaskData": [],
+  "NextReset": "2024-07-30T08:00:00Z"
 }
