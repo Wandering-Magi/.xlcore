@@ -1,6 +1,27 @@
 {
   "ClickableLink": true,
-  "TaskConfig": [],
+  "TaskConfig": [
+    {
+      "RowId": 985,
+      "Enabled": false,
+      "TargetCount": 0
+    },
+    {
+      "RowId": 987,
+      "Enabled": false,
+      "TargetCount": 0
+    },
+    {
+      "RowId": 989,
+      "Enabled": false,
+      "TargetCount": 0
+    },
+    {
+      "RowId": 991,
+      "Enabled": false,
+      "TargetCount": 0
+    }
+  ],
   "ModuleEnabled": false,
   "OnLoginMessage": true,
   "OnZoneChangeMessage": true,
@@ -54,7 +75,8 @@
     "HideTime": false,
     "HideSeconds": false,
     "UseCustomLabel": false,
-    "CustomLabel": ""
+    "CustomLabel": "",
+    "Scale": 0.8
   },
   "Suppressed": false
 }

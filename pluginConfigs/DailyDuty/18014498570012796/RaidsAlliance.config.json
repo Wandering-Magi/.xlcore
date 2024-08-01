@@ -1,12 +1,6 @@
 {
   "ClickableLink": true,
-  "TaskConfig": [
-    {
-      "RowId": 962,
-      "Enabled": false,
-      "TargetCount": 0
-    }
-  ],
+  "TaskConfig": [],
   "ModuleEnabled": false,
   "OnLoginMessage": true,
   "OnZoneChangeMessage": true,
@@ -60,7 +54,8 @@
     "HideTime": false,
     "HideSeconds": false,
     "UseCustomLabel": false,
-    "CustomLabel": ""
+    "CustomLabel": "",
+    "Scale": 0.8
   },
   "Suppressed": false
 }

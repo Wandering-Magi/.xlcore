@@ -3,7 +3,7 @@
   "ShowCropTooltip": true,
   "Version": 4,
   "Enabled": true,
-  "WindowVisible": true,
+  "WindowVisible": false,
   "EnableRetainers": true,
   "EnableAirships": true,
   "EnableSubmersibles": true,
@@ -24,6 +24,7 @@
   "EnableTribes": true,
   "LeveWarning": 85,
   "TribesFinished": 12,
+  "ShowDtr": true,
   "Colors": {
     "$type": "System.Collections.Generic.Dictionary`2[[Accountant.Gui.ColorId, Accountant],[System.UInt32, System.Private.CoreLib]], System.Private.CoreLib",
     "TextObjectsAway": 4280295632,
@@ -70,5 +71,6 @@
   "BlockedCrops": [],
   "Priorities": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib"
-  }
+  },
+  "FixedWindowWidth": null
 }

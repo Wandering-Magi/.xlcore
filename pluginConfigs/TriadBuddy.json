@@ -491,6 +491,29 @@
       "NumWins": 7,
       "NumDraws": 0,
       "NumLosses": 1
+    },
+    "2293894": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "412": 1
+      },
+      "NumCoins": 288,
+      "NumWins": 6,
+      "NumDraws": 0,
+      "NumLosses": 0
+    },
+    "2293840": {
+      "$type": "TriadBuddyPlugin.Configuration+NpcStatInfo, TriadBuddy",
+      "Cards": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib",
+        "189": 5,
+        "217": 1
+      },
+      "NumCoins": 481,
+      "NumWins": 14,
+      "NumDraws": 0,
+      "NumLosses": 1
     }
   }
 }
