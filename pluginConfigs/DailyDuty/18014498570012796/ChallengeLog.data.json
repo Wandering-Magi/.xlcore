@@ -2,12 +2,12 @@
   "TaskData": [
     {
       "RowId": 1,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
       "RowId": 2,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "RowId": 21,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "RowId": 30,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "RowId": 51,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -352,14 +352,14 @@
     },
     {
       "RowId": 74,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
       "RowId": 75,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2024-08-06T08:00:00Z"
+  "NextReset": "2024-08-13T08:00:00Z"
 }

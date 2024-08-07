@@ -4,7 +4,7 @@
     "ItemTypes": [],
     "Name": "WIP",
     "Description": "",
-    "Enabled": true
+    "Enabled": false
   },
   {
     "ItemIds": [],
@@ -52,6 +52,27 @@
       1
     ],
     "Name": "Purple Scripts",
+    "Description": "",
+    "Enabled": false
+  },
+  {
+    "ItemIds": [
+      44135,
+      44136,
+      44139,
+      44140,
+      44137,
+      44138
+    ],
+    "ItemTypes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Name": "Folklore",
     "Description": "",
     "Enabled": false
   }

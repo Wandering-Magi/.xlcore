@@ -8,23 +8,52 @@
   "CustomTodoLabel": "",
   "OverrideTextColor": false,
   "TodoTextColor": {
-    "X": 1.0,
-    "Y": 1.0,
-    "Z": 1.0,
-    "W": 1.0
+    "X": 1,
+    "Y": 1,
+    "Z": 1,
+    "W": 1
   },
   "TodoTextOutline": {
-    "X": 0.0,
-    "Y": 0.0,
-    "Z": 0.0,
-    "W": 1.0
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "W": 1
   },
-  "StyleChanged": false,
   "UseCustomChannel": false,
   "MessageChatChannel": 1,
   "UseCustomStatusMessage": false,
   "CustomStatusMessage": "",
   "UseCustomResetMessage": false,
   "CustomResetMessage": "",
+  "TimerConfig": {
+    "TimerEnabled": false,
+    "Position": {
+      "X": 400,
+      "Y": 400
+    },
+    "Size": {
+      "X": 400,
+      "Y": 32
+    },
+    "BarColor": {
+      "X": 0,
+      "Y": 1,
+      "Z": 1,
+      "W": 1
+    },
+    "BarBackgroundColor": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0,
+      "W": 1
+    },
+    "HideWhenComplete": true,
+    "HideName": false,
+    "HideTime": false,
+    "HideSeconds": false,
+    "UseCustomLabel": false,
+    "CustomLabel": "",
+    "Scale": 0.8
+  },
   "Suppressed": false
 }
