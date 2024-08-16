@@ -3,22 +3,22 @@
     {
       "RowId": 985,
       "Complete": false,
-      "CurrentCount": 0
+      "CurrentCount": 1
     },
     {
       "RowId": 987,
       "Complete": false,
-      "CurrentCount": 0
+      "CurrentCount": 1
     },
     {
       "RowId": 989,
       "Complete": false,
-      "CurrentCount": 0
+      "CurrentCount": 1
     },
     {
       "RowId": 991,
       "Complete": false,
-      "CurrentCount": 0
+      "CurrentCount": 2
     }
   ],
   "NextReset": "2024-08-13T08:00:00Z"

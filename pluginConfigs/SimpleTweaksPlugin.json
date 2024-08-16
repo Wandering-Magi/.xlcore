@@ -87,6 +87,7 @@
   "ShowOtherTweaksTab": true,
   "NoCallerInLog": false,
   "UseFuzzyTweakSearch": true,
+  "DismissedUpdateNotice": true,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",

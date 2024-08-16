@@ -1,5 +1,6 @@
 {
   "SelectCheckBox": true,
+  "IgnoreTickedCheckBox": true,
   "YesNo": true,
   "DutyConfirmation": true,
   "CardsShop": true,
@@ -10,6 +11,7 @@
   "MateriaRetrievals": true,
   "GlamourDispels": true,
   "Desynthesis": true,
+  "AutomaticAetherialReduction": true,
   "Lobby": true,
   "ItemExchangeConfirmations": true,
   "BlundervilleExitDialog": true,

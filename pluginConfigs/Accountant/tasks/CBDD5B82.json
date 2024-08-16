@@ -17,8 +17,8 @@
     },
     "Map": "0001-01-01T00:00:00",
     "MiniCactpot": {
-      "LastUpdate": "2024-08-07T08:04:12.2268934Z",
-      "Tickets": 3
+      "LastUpdate": "2024-08-08T02:41:13.0709199Z",
+      "Tickets": 0
     },
     "JumboCactpot": {
       "LastUpdate": "2024-08-07T08:05:26.7036991Z",
@@ -29,8 +29,8 @@
       ]
     },
     "Delivery": {
-      "Allowances": 12,
-      "LastUpdate": "2024-08-06T07:59:53.0980514Z"
+      "Allowances": 0,
+      "LastUpdate": "2024-08-11T05:15:13.9078125Z"
     },
     "Tribe": {
       "Allowances": 12,
