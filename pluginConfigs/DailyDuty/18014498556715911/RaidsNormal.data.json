@@ -1,10 +1,25 @@
 {
   "TaskData": [
     {
-      "RowId": 942,
+      "RowId": 985,
+      "Complete": false,
+      "CurrentCount": 0
+    },
+    {
+      "RowId": 987,
+      "Complete": false,
+      "CurrentCount": 0
+    },
+    {
+      "RowId": 989,
+      "Complete": false,
+      "CurrentCount": 0
+    },
+    {
+      "RowId": 991,
       "Complete": false,
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2024-07-30T08:00:00Z"
+  "NextReset": "2024-08-20T08:00:00Z"
 }

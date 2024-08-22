@@ -387,34 +387,5 @@
   "CustomStatusMessage": "",
   "UseCustomResetMessage": false,
   "CustomResetMessage": "",
-  "TimerConfig": {
-    "TimerEnabled": false,
-    "Position": {
-      "X": 400,
-      "Y": 400
-    },
-    "Size": {
-      "X": 400,
-      "Y": 32
-    },
-    "BarColor": {
-      "X": 0,
-      "Y": 1,
-      "Z": 1,
-      "W": 1
-    },
-    "BarBackgroundColor": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0,
-      "W": 1
-    },
-    "HideWhenComplete": true,
-    "HideName": false,
-    "HideTime": false,
-    "HideSeconds": false,
-    "UseCustomLabel": false,
-    "CustomLabel": ""
-  },
   "Suppressed": false
 }
