@@ -237,7 +237,7 @@
     },
     {
       "RowId": 51,
-      "Complete": false,
+      "Complete": true,
       "CurrentCount": 0
     },
     {
@@ -361,5 +361,5 @@
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2024-08-20T08:00:00Z"
+  "NextReset": "2024-08-27T08:00:00Z"
 }
