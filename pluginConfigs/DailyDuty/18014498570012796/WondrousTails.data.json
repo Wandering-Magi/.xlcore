@@ -1,13 +1,13 @@
 {
   "PlacedStickers": 1,
-  "SecondChance": 1,
-  "NewBookAvailable": false,
+  "SecondChance": 2,
+  "NewBookAvailable": true,
   "PlayerHasBook": true,
   "Deadline": "2024-09-03T08:00:00",
-  "TimeRemaining": "8.02:00:02.6433450",
+  "TimeRemaining": "03:40:43.7383398",
   "BookExpired": false,
   "CloseToKhloe": false,
   "DistanceToKhloe": 0,
   "CastingTeleport": false,
-  "NextReset": "2024-08-27T08:00:00Z"
+  "NextReset": "2024-09-03T08:00:00Z"
 }

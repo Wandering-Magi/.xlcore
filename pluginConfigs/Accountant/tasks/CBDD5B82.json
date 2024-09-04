@@ -21,16 +21,16 @@
       "Tickets": 3
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-08-19T04:30:21.6137274Z",
+      "LastUpdate": "2024-09-02T06:31:29.9642577Z",
       "Tickets": [
-        124,
-        215,
-        1207
+        65535,
+        65535,
+        65535
       ]
     },
     "Delivery": {
-      "Allowances": 0,
-      "LastUpdate": "2024-08-25T03:53:29.9212739Z"
+      "Allowances": 12,
+      "LastUpdate": "2024-08-30T05:28:15.8059786Z"
     },
     "Tribe": {
       "Allowances": 12,

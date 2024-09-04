@@ -3,7 +3,7 @@
   "ShowCropTooltip": true,
   "Version": 4,
   "Enabled": true,
-  "WindowVisible": false,
+  "WindowVisible": true,
   "EnableRetainers": true,
   "EnableAirships": true,
   "EnableSubmersibles": true,

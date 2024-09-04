@@ -59,11 +59,11 @@
     },
     {
       "Enabled": true,
-      "ItemId": 44,
-      "IconId": 65094,
+      "ItemId": 46,
+      "IconId": 65107,
       "HqItem": false,
       "CollectibleItem": false,
-      "Name": "Allagan Tomestone of Causality",
+      "Name": "Allagan Tomestone of Aesthetics",
       "HorizontalSpacing": 0.0,
       "UseCustomPosition": false,
       "CustomPosition": {
@@ -73,11 +73,11 @@
     },
     {
       "Enabled": true,
-      "ItemId": 45,
-      "IconId": 65103,
+      "ItemId": 47,
+      "IconId": 65108,
       "HqItem": false,
       "CollectibleItem": false,
-      "Name": "Allagan Tomestone of Comedy",
+      "Name": "Allagan Tomestone of Heliometry",
       "HorizontalSpacing": 0.0,
       "UseCustomPosition": false,
       "CustomPosition": {
